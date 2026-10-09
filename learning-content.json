@@ -1,0 +1,3501 @@
+{
+  "note": {
+    "phonetic": "/nəʊt/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A particular feeling or quality in something.",
+        "zh": "气氛；特征；某种意味。",
+        "exampleEn": "Her speech ended on a hopeful note.",
+        "exampleZh": "她的演讲在充满希望的气氛中结束。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A short piece of writing used as a reminder or message.",
+        "zh": "笔记；简短的留言或记录。",
+        "exampleEn": "I left a note beside the dictionary.",
+        "exampleZh": "我在词典旁留了一张便条。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To notice something or record it in writing.",
+        "zh": "注意到；记录。",
+        "exampleEn": "Please note the difference between the two meanings.",
+        "exampleZh": "请注意这两个词义之间的区别。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A single sound with a particular pitch in music.",
+        "zh": "音符；单个乐音。",
+        "exampleEn": "The singer held the final note.",
+        "exampleZh": "歌手拖长了最后一个音。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "public speaking audience",
+    "scene": "希望的演讲氛围",
+    "source": "WordTrail original"
+  },
+  "unfashionable": {
+    "phonetic": "/ʌnˈfæʃənəbl/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Not popular or considered modern at the moment.",
+        "zh": "不合时宜的；不流行的。",
+        "exampleEn": "Traditional paintings seemed unfashionable to young buyers.",
+        "exampleZh": "在年轻买家看来，传统绘画似乎不合时宜。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj.",
+        "en": "Not following the current style in clothing or appearance.",
+        "zh": "穿着或外观过时的；不时髦的。",
+        "exampleEn": "His coat was unfashionable but very warm.",
+        "exampleZh": "他的外套虽然不时髦，却很暖和。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "vintage clothing old fashion",
+    "scene": "复古衣物与当下潮流",
+    "source": "WordTrail original"
+  },
+  "fetch": {
+    "phonetic": "/fetʃ/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To be sold for a particular amount of money.",
+        "zh": "售得；卖得某个价格。",
+        "exampleEn": "The small painting fetched a surprisingly high price.",
+        "exampleZh": "这幅小画卖出了令人意外的高价。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To go somewhere, get something, and bring it back.",
+        "zh": "去取来；拿来。",
+        "exampleEn": "Could you fetch the book from my desk?",
+        "exampleZh": "你能去我的书桌上把那本书拿来吗？",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "painting auction price",
+    "scene": "画作在拍卖中卖出高价",
+    "source": "WordTrail original"
+  },
+  "gallery": {
+    "phonetic": "/ˈɡæləri/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A room or building where works of art are displayed.",
+        "zh": "画廊；美术馆；陈列艺术作品的场所。",
+        "exampleEn": "The gallery displays paintings by local artists.",
+        "exampleZh": "这家画廊展出了当地艺术家的画作。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A raised area with seats above the main floor of a theatre.",
+        "zh": "剧场的楼座；高层看台。",
+        "exampleEn": "We watched the performance from the gallery.",
+        "exampleZh": "我们从剧场的楼座观看了演出。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "art gallery paintings interior",
+    "scene": "走进画廊，欣赏墙上的画作",
+    "source": "WordTrail original"
+  },
+  "auctioneer": {
+    "phonetic": "/ˌɔːkʃəˈnɪə/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A person who leads an auction and sells items to the highest bidder.",
+        "zh": "拍卖师；主持拍卖并将物品卖给最高出价者的人。",
+        "exampleEn": "The auctioneer raised the hammer as the bidding ended.",
+        "exampleZh": "竞价结束时，拍卖师举起了拍卖槌。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "auctioneer auction podium gavel",
+    "scene": "拍卖师在台前主持竞价",
+    "source": "WordTrail original"
+  },
+  "salerooms": {
+    "phonetic": "/ˈseɪlruːmz/",
+    "senses": [
+      {
+        "pos": "n. plural",
+        "en": "Rooms where objects are sold at auction.",
+        "zh": "拍卖场；拍卖室（saleroom 的复数）。",
+        "exampleEn": "Collectors filled the salerooms to bid for rare paintings.",
+        "exampleZh": "收藏家挤满拍卖场，竞拍稀有画作。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "auction room art auction",
+    "scene": "收藏家聚集的艺术品拍卖场",
+    "source": "WordTrail original"
+  },
+  "bid": {
+    "phonetic": "/bɪd/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "An offer to pay a particular price for something at an auction.",
+        "zh": "出价；拍卖时提出的价格。",
+        "exampleEn": "Her final bid was higher than anyone else's.",
+        "exampleZh": "她最后的出价比其他任何人都高。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To offer a price for something, especially at an auction.",
+        "zh": "出价竞买；投标。",
+        "exampleEn": "Three collectors bid for the same painting.",
+        "exampleZh": "三位收藏家竞价购买同一幅画。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "An attempt to achieve or obtain something.",
+        "zh": "努力；争取某事的尝试。",
+        "exampleEn": "The city launched a bid to host the event.",
+        "exampleZh": "这座城市开始争取主办这项活动。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "auction bidding paddle",
+    "scene": "举起号牌，给出更高的价格",
+    "source": "WordTrail original"
+  },
+  "contemporary": {
+    "phonetic": "/kənˈtemprəri/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Belonging to the present time.",
+        "zh": "当代的；现代的。",
+        "exampleEn": "The museum has a large collection of contemporary art.",
+        "exampleZh": "这家博物馆收藏了大量当代艺术作品。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj.",
+        "en": "Living or happening during the same period.",
+        "zh": "同时代的；发生在同一时期的。",
+        "exampleEn": "The two writers were contemporary with each other.",
+        "exampleZh": "这两位作家生活在同一时代。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A person who lived at the same time as someone else.",
+        "zh": "同时代的人。",
+        "exampleEn": "His contemporaries admired his bold style.",
+        "exampleZh": "与他同时代的人欣赏他大胆的风格。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "contemporary art museum sculpture",
+    "scene": "当代艺术展中的新颖作品",
+    "source": "WordTrail original"
+  },
+  "bankruptcy": {
+    "phonetic": "/ˈbæŋkrʌptsi/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A legal situation in which a person or business cannot pay its debts.",
+        "zh": "破产；因无法偿还债务而进入的法律状态。",
+        "exampleEn": "Falling sales pushed the company toward bankruptcy.",
+        "exampleZh": "销售额下降使这家公司濒临破产。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A serious lack of useful ideas, values, or ability.",
+        "zh": "（思想、道德等的）彻底匮乏或败坏。",
+        "exampleEn": "The report exposed the moral bankruptcy of the decision.",
+        "exampleZh": "这份报告揭露了这一决定在道德上的彻底败坏。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "closed business empty shop",
+    "scene": "关门的店铺与无法偿还的债务",
+    "source": "WordTrail original"
+  },
+  "overheated": {
+    "phonetic": "/ˌəʊvəˈhiːtɪd/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Growing or becoming active too quickly to remain stable.",
+        "zh": "（经济、市场等）过热的；发展过快而不稳定的。",
+        "exampleEn": "Prices rose rapidly in the overheated art market.",
+        "exampleZh": "在过热的艺术品市场中，价格迅速上涨。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj.",
+        "en": "Having become hotter than is safe or suitable.",
+        "zh": "温度过高的；过热的。",
+        "exampleEn": "The overheated engine had to be switched off.",
+        "exampleZh": "过热的发动机必须关闭。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "engine temperature gauge overheating",
+    "scene": "温度表飙升，联想市场过热",
+    "source": "WordTrail original"
+  },
+  "momentum": {
+    "phonetic": "/məˈmentəm/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "The strength that makes a developing activity continue or grow.",
+        "zh": "势头；使活动持续或发展的动力。",
+        "exampleEn": "The campaign gained momentum after its first success.",
+        "exampleZh": "首次取得成功后，这项活动的势头增强了。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "In physics, mass multiplied by velocity.",
+        "zh": "动量；物体质量与速度的乘积。",
+        "exampleEn": "A moving truck has more momentum than a bicycle at the same speed.",
+        "exampleZh": "在速度相同时，行驶中的卡车比自行车有更大的动量。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "cyclist moving road",
+    "scene": "向前运动，积累持续前进的势头",
+    "source": "WordTrail original"
+  },
+  "guarantee": {
+    "phonetic": "/ˌɡærənˈtiː/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A firm promise that something will happen or be provided.",
+        "zh": "保证；担保；明确的承诺。",
+        "exampleEn": "Past success is no guarantee of future profit.",
+        "exampleZh": "过去的成功并不能保证未来获利。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To promise that something will happen or be true.",
+        "zh": "保证；担保某事会发生或属实。",
+        "exampleEn": "The seller guarantees that the painting is genuine.",
+        "exampleZh": "卖家保证这幅画是真品。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A promise to repair or replace a product if it fails within a stated period.",
+        "zh": "保修承诺；保修凭证。",
+        "exampleEn": "The camera comes with a two-year guarantee.",
+        "exampleZh": "这台相机附带两年的保修承诺。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "product warranty certificate",
+    "scene": "一份承诺或产品保修凭证",
+    "source": "WordTrail original"
+  },
+  "bewilderingly": {
+    "phonetic": "/bɪˈwɪldərɪŋli/",
+    "senses": [
+      {
+        "pos": "adv.",
+        "en": "In a way that makes something very difficult to understand.",
+        "zh": "令人费解地；使人困惑地。",
+        "exampleEn": "Prices changed bewilderingly from one auction to the next.",
+        "exampleZh": "价格在一场场拍卖之间变化得令人费解。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "confusing maze puzzle",
+    "scene": "复杂迷宫让人摸不着头脑",
+    "source": "WordTrail original"
+  },
+  "downturn": {
+    "phonetic": "/ˈdaʊntɜːn/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A period when business or economic activity becomes weaker.",
+        "zh": "（商业、经济活动等的）下降；衰退。",
+        "exampleEn": "The economic downturn reduced demand for expensive art.",
+        "exampleZh": "经济衰退降低了人们对昂贵艺术品的需求。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "economic downturn graph",
+    "scene": "向下的曲线，表示经济活动减弱",
+    "source": "WordTrail original"
+  },
+  "reckon": {
+    "phonetic": "/ˈrekən/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To think or believe that something is true.",
+        "zh": "认为；估计。",
+        "exampleEn": "I reckon the market will recover slowly.",
+        "exampleZh": "我认为市场会缓慢复苏。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To calculate an amount or estimate a number.",
+        "zh": "计算；估算数量。",
+        "exampleEn": "They reckoned the total cost at about a million dollars.",
+        "exampleZh": "他们估算总费用约为一百万美元。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v. phrase",
+        "en": "To expect or depend on something; used as 'reckon on'.",
+        "zh": "指望；预期（常用 reckon on）。",
+        "exampleEn": "We cannot reckon on prices staying this high.",
+        "exampleZh": "我们不能指望价格一直维持这么高。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person thinking calculating",
+    "scene": "思考判断，估算结果",
+    "source": "WordTrail original"
+  },
+  "impressionist": {
+    "phonetic": "/ɪmˈpreʃənɪst/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "An artist associated with Impressionism, a style that emphasizes light and immediate visual impressions.",
+        "zh": "印象派画家；以光线和即时视觉印象为重点的艺术家。",
+        "exampleEn": "The impressionist painted the river in changing light.",
+        "exampleZh": "这位印象派画家描绘了变化光线中的河流。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A performer who imitates other people's voices and manner.",
+        "zh": "模仿他人声音和举止的表演者。",
+        "exampleEn": "The impressionist copied the actor's voice perfectly.",
+        "exampleZh": "这位模仿演员把那位演员的声音模仿得惟妙惟肖。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "impressionist painting landscape",
+    "scene": "印象派画作中的光线与色彩",
+    "source": "WordTrail original"
+  },
+  "generate": {
+    "phonetic": "/ˈdʒenəreɪt/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To cause something to exist or happen.",
+        "zh": "产生；引起。",
+        "exampleEn": "The exhibition generated interest in new artists.",
+        "exampleZh": "这场展览引起了人们对新艺术家的兴趣。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To produce energy, especially electricity.",
+        "zh": "产生能量；发电。",
+        "exampleEn": "Solar panels generate electricity during the day.",
+        "exampleZh": "太阳能板在白天产生电力。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "solar panels electricity",
+    "scene": "太阳能板把阳光转化为电力",
+    "source": "WordTrail original"
+  },
+  "fluctuant": {
+    "phonetic": "/ˈflʌktʃuənt/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Changing repeatedly rather than remaining steady.",
+        "zh": "波动的；不稳定的（较少使用的形容词）。",
+        "exampleEn": "Fluctuant demand makes future sales hard to predict.",
+        "exampleZh": "波动的需求使未来销量难以预测。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "fluctuating line chart",
+    "scene": "上下起伏的曲线",
+    "source": "WordTrail original"
+  },
+  "ego": {
+    "phonetic": "/ˈiːɡəʊ/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A person's sense of self and personal importance.",
+        "zh": "自我；个人对自身及自身重要性的认识。",
+        "exampleEn": "Winning the auction gave his ego a boost.",
+        "exampleZh": "赢得这场拍卖增强了他的自我满足感。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "An excessively high opinion of one's own importance.",
+        "zh": "自负；过强的自尊心。",
+        "exampleEn": "Her large ego made it difficult to accept criticism.",
+        "exampleZh": "她过于自负，因此很难接受批评。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person mirror reflection",
+    "scene": "镜中的自己，联想自我意识",
+    "source": "WordTrail original"
+  },
+  "slump": {
+    "phonetic": "/slʌmp/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A sharp fall in prices, sales, or economic activity.",
+        "zh": "（价格、销量等的）暴跌；不景气；萧条。",
+        "exampleEn": "The slump in sales forced several galleries to close.",
+        "exampleZh": "销量暴跌迫使几家画廊关闭。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To fall sharply in amount or value.",
+        "zh": "急剧下降；暴跌。",
+        "exampleEn": "Demand for expensive paintings slumped.",
+        "exampleZh": "对昂贵画作的需求骤降。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To fall or sit heavily with a bent, tired posture.",
+        "zh": "无力地倒下；瘫坐。",
+        "exampleEn": "After the long journey, he slumped into a chair.",
+        "exampleZh": "长途旅行后，他无力地瘫坐在椅子上。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "falling sales chart",
+    "scene": "销量陡降，店铺陷入低迷",
+    "source": "WordTrail original"
+  },
+  "greed": {
+    "phonetic": "/ɡriːd/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A strong desire to have more money or possessions than one needs.",
+        "zh": "贪婪；对金钱或财物的过度欲望。",
+        "exampleEn": "Greed led the buyer to take unnecessary risks.",
+        "exampleZh": "贪婪使这位买家承担了不必要的风险。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "An excessive desire for food or another pleasure.",
+        "zh": "贪吃；对某种享受的过度欲望。",
+        "exampleEn": "Out of greed, he took more cake than he could eat.",
+        "exampleZh": "出于贪吃，他拿了超过自己能吃完的蛋糕。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "hands coins money",
+    "scene": "紧抓钱币，联想过度的欲望",
+    "source": "WordTrail original"
+  },
+  "deliver": {
+    "phonetic": "/dɪˈlɪvə/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To take goods or messages to a person or place.",
+        "zh": "输送；递送；运送。",
+        "exampleEn": "The gallery will deliver the painting to your home.",
+        "exampleZh": "画廊会把这幅画送到你家。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To give a speech or present something to an audience.",
+        "zh": "发表演说；作报告。",
+        "exampleEn": "She delivered a speech about the value of art.",
+        "exampleZh": "她发表了一场关于艺术价值的演讲。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To produce the results that were expected or promised.",
+        "zh": "实现；兑现预期或承诺的成果。",
+        "exampleEn": "The new plan failed to deliver the expected savings.",
+        "exampleZh": "这项新计划未能实现预期的成本节约。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To help a baby be born.",
+        "zh": "接生；帮助婴儿出生。",
+        "exampleEn": "The doctor delivered the baby safely.",
+        "exampleZh": "医生安全地接生了这个婴儿。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "delivery courier parcel",
+    "scene": "快递员把包裹送到门口",
+    "source": "WordTrail original"
+  },
+  "controversy": {
+    "phonetic": "/ˈkɒntrəvɜːsi/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "Strong public disagreement about a particular issue.",
+        "zh": "争议；围绕某一问题的公开分歧。",
+        "exampleEn": "The sale of the painting caused a public controversy.",
+        "exampleZh": "这幅画的出售引发了一场公众争议。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "public debate discussion",
+    "scene": "人们围绕同一个问题持不同意见",
+    "source": "WordTrail original"
+  },
+  "address": {
+    "phonetic": "/əˈdres/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To speak to a person or group, often formally.",
+        "zh": "发表演说；向某人或某群体讲话。",
+        "exampleEn": "The sociologist addressed a large gathering of students.",
+        "exampleZh": "这位社会学家向一大群学生发表了演说。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To give attention to a problem and try to deal with it.",
+        "zh": "着手解决；处理；应对问题。",
+        "exampleEn": "The report addresses the causes of social inequality.",
+        "exampleZh": "这份报告探讨并着手处理社会不平等的成因。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "Details of where a person lives or an organization is located.",
+        "zh": "地址；某人居住或某机构所在的位置。",
+        "exampleEn": "Write your address on the registration form.",
+        "exampleZh": "请在登记表上写下你的地址。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To write the destination on a letter or package.",
+        "zh": "在信件或包裹上写收件地址。",
+        "exampleEn": "She addressed the envelope to her professor.",
+        "exampleZh": "她在信封上写了教授的收件地址。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "speaker audience lecture",
+    "scene": "讲者面向听众发表演说",
+    "source": "WordTrail original"
+  },
+  "sociologist": {
+    "phonetic": "/ˌsəʊsiˈɒlədʒɪst/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A person who studies society, social relationships, and human behavior in groups.",
+        "zh": "社会学家；研究社会、社会关系及群体行为的人。",
+        "exampleEn": "The sociologist studied how city life changes family relationships.",
+        "exampleZh": "这位社会学家研究城市生活如何改变家庭关系。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "social researcher people community",
+    "scene": "研究者观察社会中的人际关系",
+    "source": "WordTrail original"
+  },
+  "gathering": {
+    "phonetic": "/ˈɡæðərɪŋ/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A group of people meeting for a particular purpose.",
+        "zh": "聚会；集会；为某种目的聚在一起的人群。",
+        "exampleEn": "The lecture began with a small gathering of neighbors.",
+        "exampleZh": "这场讲座开始时只有一小群邻居参加。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "The act of bringing information or things together.",
+        "zh": "收集；汇集。",
+        "exampleEn": "The gathering of evidence took several weeks.",
+        "exampleZh": "证据收集花了好几个星期。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "community gathering people",
+    "scene": "邻里聚在一起交流",
+    "source": "WordTrail original"
+  },
+  "virtual": {
+    "phonetic": "/ˈvɜːtʃuəl/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Almost the same as the stated thing, although not officially or completely so.",
+        "zh": "实际上的；几乎等同于某事的。",
+        "exampleEn": "The long silence brought the discussion to a virtual end.",
+        "exampleZh": "长时间的沉默使这场讨论实际上结束了。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj.",
+        "en": "Created or experienced through computers rather than in a physical place.",
+        "zh": "虚拟的；通过计算机实现或体验的。",
+        "exampleEn": "We explored the museum through a virtual tour.",
+        "exampleZh": "我们通过虚拟导览参观了这家博物馆。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "virtual reality headset",
+    "scene": "虚拟现实设备创造数字体验",
+    "source": "WordTrail original"
+  },
+  "suburban": {
+    "phonetic": "/səˈbɜːbən/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Located in or related to residential areas outside a city's center.",
+        "zh": "郊区的；与城市中心外围住宅区有关的。",
+        "exampleEn": "They moved to a quiet suburban neighborhood.",
+        "exampleZh": "他们搬到了一个安静的郊区社区。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "suburban neighborhood houses",
+    "scene": "城市外围安静的住宅街区",
+    "source": "WordTrail original"
+  },
+  "epidemic": {
+    "phonetic": "/ˌepɪˈdemɪk/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A disease outbreak that affects many people in a community within a short time.",
+        "zh": "流行病；某种疾病在短时间内于一个群体中广泛传播。",
+        "exampleEn": "The epidemic forced several schools to close temporarily.",
+        "exampleZh": "这场流行病迫使几所学校暂时关闭。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A rapid, widespread increase in an undesirable activity or condition.",
+        "zh": "某种不良现象的迅速蔓延。",
+        "exampleEn": "The article describes an epidemic of loneliness.",
+        "exampleZh": "这篇文章描述了孤独感的广泛蔓延。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "public health disease prevention",
+    "scene": "公共卫生措施应对疾病传播",
+    "source": "WordTrail original"
+  },
+  "talkative": {
+    "phonetic": "/ˈtɔːkətɪv/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Often talking a lot or enjoying conversation.",
+        "zh": "健谈的；爱说话的。",
+        "exampleEn": "Our talkative neighbor always has a story to share.",
+        "exampleZh": "我们那位健谈的邻居总有故事要分享。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "friends chatting conversation",
+    "scene": "朋友愉快地聊个不停",
+    "source": "WordTrail original"
+  },
+  "tangible": {
+    "phonetic": "/ˈtændʒəbl/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Real or clear enough to be shown or proved.",
+        "zh": "确凿的；实在的；可以明确证明的。",
+        "exampleEn": "The study provides tangible evidence of improvement.",
+        "exampleZh": "这项研究提供了改进的确凿证据。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj.",
+        "en": "Having a physical form that can be touched.",
+        "zh": "有形的；可以触摸的。",
+        "exampleEn": "A printed photograph is a tangible reminder of the trip.",
+        "exampleZh": "一张打印出来的照片是这次旅行的有形纪念。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "hands holding printed photograph",
+    "scene": "手里可触摸的照片与实在的证据",
+    "source": "WordTrail original"
+  },
+  "anecdote": {
+    "phonetic": "/ˈænɪkdəʊt/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A short, often amusing account of something that happened to a person.",
+        "zh": "轶事；关于某人经历的简短而常有趣的故事。",
+        "exampleEn": "She opened her talk with an anecdote about her first job.",
+        "exampleZh": "她用一则关于自己第一份工作的轶事作为演讲开场。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "storytelling friends",
+    "scene": "用一个有趣的小故事开启话题",
+    "source": "WordTrail original"
+  },
+  "inequity": {
+    "phonetic": "/ɪnˈekwəti/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "An unfair difference in the way people are treated or in what they receive.",
+        "zh": "不平等；待遇或资源分配上的不公平。",
+        "exampleEn": "The report highlights inequity in access to education.",
+        "exampleZh": "这份报告强调了获得教育机会方面的不平等。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "unequal balance scales",
+    "scene": "倾斜的天平象征不公平",
+    "source": "WordTrail original"
+  },
+  "comment": {
+    "phonetic": "/ˈkɒment/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To express an opinion about something.",
+        "zh": "发表意见；评论。",
+        "exampleEn": "The researcher commented on the survey results.",
+        "exampleZh": "研究者对调查结果发表了意见。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A spoken or written statement expressing an opinion.",
+        "zh": "评论；表达意见的话语或文字。",
+        "exampleEn": "Her comment started a lively discussion.",
+        "exampleZh": "她的评论引发了一场热烈的讨论。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "discussion speech bubbles",
+    "scene": "表达看法，参与讨论",
+    "source": "WordTrail original"
+  },
+  "accompany": {
+    "phonetic": "/əˈkʌmpəni/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To go somewhere with another person.",
+        "zh": "陪伴；陪同某人前往某处。",
+        "exampleEn": "I accompanied my friend to the community meeting.",
+        "exampleZh": "我陪朋友去参加了社区会议。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To happen or appear together with something else.",
+        "zh": "伴随；与某事同时发生或出现。",
+        "exampleEn": "Clear examples accompany each explanation.",
+        "exampleZh": "每条解释都配有清晰的例子。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To play music while another person sings or plays the main part.",
+        "zh": "为演唱或演奏伴奏。",
+        "exampleEn": "A pianist accompanied the singer.",
+        "exampleZh": "一位钢琴家为歌手伴奏。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "friends walking together",
+    "scene": "两人同行，互相陪伴",
+    "source": "WordTrail original"
+  },
+  "gesture": {
+    "phonetic": "/ˈdʒestʃə/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To communicate or show something by moving your hands or body.",
+        "zh": "做手势；用身体动作示意。",
+        "exampleEn": "She gestured toward the empty seat.",
+        "exampleZh": "她朝那个空座位做了个手势。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A movement of the hands or body that expresses an idea or feeling.",
+        "zh": "手势；表达想法或感受的身体动作。",
+        "exampleEn": "He welcomed us with a friendly gesture.",
+        "exampleZh": "他用一个友好的手势欢迎我们。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "An action intended to show a particular attitude.",
+        "zh": "表示某种态度的举动。",
+        "exampleEn": "The gift was a gesture of thanks.",
+        "exampleZh": "这份礼物是表达感谢的举动。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "hand gesture pointing",
+    "scene": "用一个手势指向空座位",
+    "source": "WordTrail original"
+  },
+  "share": {
+    "phonetic": "/ʃeə/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A portion of something that belongs to or is expected from one person.",
+        "zh": "一份；某人应得或应承担的部分。",
+        "exampleEn": "Everyone should do their share of the work.",
+        "exampleZh": "每个人都应该完成自己那份工作。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To use or enjoy something together with another person.",
+        "zh": "分享；共同使用或享受。",
+        "exampleEn": "We shared a meal after the meeting.",
+        "exampleZh": "会议结束后，我们一起吃了顿饭。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "One of the equal parts of a company's ownership that people can buy.",
+        "zh": "股份；公司所有权中可买卖的一份。",
+        "exampleEn": "She bought shares in a technology company.",
+        "exampleZh": "她购买了一家科技公司的股份。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "people sharing meal table",
+    "scene": "共享一顿饭，各自承担一份工作",
+    "source": "WordTrail original"
+  },
+  "puzzled": {
+    "phonetic": "/ˈpʌzld/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Unable to understand something and wanting an explanation.",
+        "zh": "困惑的；因不理解而感到迷惑的。",
+        "exampleEn": "The unexpected result left the researcher puzzled.",
+        "exampleZh": "这个意外的结果让研究者感到困惑。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person puzzled question",
+    "scene": "面对意外结果，疑惑地思考",
+    "source": "WordTrail original"
+  },
+  "observe": {
+    "phonetic": "/əbˈzɜːv/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To express a comment, especially about something one has noticed.",
+        "zh": "评论；就注意到的事情发表看法。",
+        "exampleEn": "She observed that the meeting had lasted too long.",
+        "exampleZh": "她评论说，这场会议持续得太久了。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To watch or notice something carefully.",
+        "zh": "观察；仔细观看或注意。",
+        "exampleEn": "The scientist observed how the birds built their nests.",
+        "exampleZh": "科学家观察了鸟类如何筑巢。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To follow a rule, custom, or particular occasion.",
+        "zh": "遵守规则；奉行习俗；庆祝或纪念某个日子。",
+        "exampleEn": "All visitors must observe the safety rules.",
+        "exampleZh": "所有访客都必须遵守安全规定。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "scientist observing birds binoculars",
+    "scene": "仔细观察，再发表看法",
+    "source": "WordTrail original"
+  },
+  "episode": {
+    "phonetic": "/ˈepɪsəʊd/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "An event that forms one part of a longer experience or series of events.",
+        "zh": "插曲；一段经历或一连串事件中的一个部分。",
+        "exampleEn": "The disagreement was only a brief episode in their friendship.",
+        "exampleZh": "这次分歧只是他们友谊中的一段短暂插曲。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "One separate part of a television or radio series.",
+        "zh": "电视或广播系列节目中的一集。",
+        "exampleEn": "We watched the final episode together.",
+        "exampleZh": "我们一起观看了最后一集。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "television series episode",
+    "scene": "一段故事中的小插曲",
+    "source": "WordTrail original"
+  },
+  "expectation": {
+    "phonetic": "/ˌekspekˈteɪʃən/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A belief or hope that something will happen in a particular way.",
+        "zh": "期望；对某事会如何发生的希望或预期。",
+        "exampleEn": "The course exceeded my expectations.",
+        "exampleZh": "这门课程超出了我的预期。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A standard that people believe someone should meet.",
+        "zh": "要求；人们认为某人应该达到的标准。",
+        "exampleEn": "The teacher clearly explained her expectations.",
+        "exampleZh": "老师清楚地说明了她的要求。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "student hopeful future",
+    "scene": "对学习成果抱有期望",
+    "source": "WordTrail original"
+  },
+  "crystallize": {
+    "phonetic": "/ˈkrɪstəlaɪz/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To make an idea clear and definite, or to become clear and definite.",
+        "zh": "使明确化；使具体化；变得清晰明确。",
+        "exampleEn": "The discussion helped crystallize our plans.",
+        "exampleZh": "这场讨论帮助我们明确了计划。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To form crystals or cause a substance to form crystals.",
+        "zh": "结晶；使物质形成晶体。",
+        "exampleEn": "Sugar crystallized as the solution cooled.",
+        "exampleZh": "溶液冷却时，糖结晶了。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "sugar crystals closeup",
+    "scene": "结晶成形，联想想法逐渐清晰",
+    "source": "WordTrail original"
+  },
+  "represent": {
+    "phonetic": "/ˌreprɪˈzent/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To speak or act officially for a person or group.",
+        "zh": "代表；正式替某人或某群体发言或行动。",
+        "exampleEn": "She will represent the students at the meeting.",
+        "exampleZh": "她将在会议上代表学生。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To stand for or be a symbol of something.",
+        "zh": "象征；表示。",
+        "exampleEn": "The blue line represents the river on the map.",
+        "exampleZh": "地图上的蓝线表示河流。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "v.",
+        "en": "To show or describe something in a particular way.",
+        "zh": "描绘；表现；描述。",
+        "exampleEn": "The painting represents everyday life in the village.",
+        "exampleZh": "这幅画描绘了村庄的日常生活。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "student representative meeting",
+    "scene": "学生代表在会议中发言",
+    "source": "WordTrail original"
+  },
+  "irony": {
+    "phonetic": "/ˈaɪrəni/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A situation in which the result is strikingly different from what one would expect.",
+        "zh": "具有讽刺意味的情况；结果与预期形成鲜明反差。",
+        "exampleEn": "The irony is that the time-saving tool made the task slower.",
+        "exampleZh": "讽刺的是，这个节省时间的工具反而让任务完成得更慢。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "The use of words that suggest the opposite of their literal meaning.",
+        "zh": "反语；用字面上相反的说法表达真实意思。",
+        "exampleEn": "Calling the rainy day perfect was an example of irony.",
+        "exampleZh": "把那个雨天称为完美的一天，就是使用反语的例子。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rain umbrella irony",
+    "scene": "期待晴天，结果却遇到大雨",
+    "source": "WordTrail original"
+  },
+  "crisis": {
+    "phonetic": "/ˈkraɪsɪs/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A serious situation that requires urgent decisions or action.",
+        "zh": "危机；需要紧急决策或行动的严重局面。",
+        "exampleEn": "The water shortage has become a crisis.",
+        "exampleZh": "缺水已经演变成了一场危机。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "A very difficult stage in a person's life.",
+        "zh": "人生中的重大困境或艰难阶段。",
+        "exampleEn": "Friends helped him through a personal crisis.",
+        "exampleZh": "朋友们帮助他渡过了个人生活中的危机。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "water shortage reservoir drought",
+    "scene": "缺水局面需要紧急应对",
+    "source": "WordTrail original"
+  },
+  "wreak": {
+    "phonetic": "/riːk/",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To cause serious damage or suffering; often used with 'havoc'.",
+        "zh": "造成严重破坏或痛苦；常与 havoc 连用。",
+        "exampleEn": "The storm wreaked havoc on the coastal roads.",
+        "exampleZh": "这场风暴对沿海道路造成了严重破坏。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "storm damage road",
+    "scene": "风暴造成严重破坏",
+    "source": "WordTrail original"
+  },
+  "stereotypical": {
+    "phonetic": "/ˌsteriəˈtɪpɪkəl/",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Matching a common, simplified idea about a type of person or thing.",
+        "zh": "符合刻板印象的；呈现常见而简化的典型形象的。",
+        "exampleEn": "The film avoids stereotypical images of suburban life.",
+        "exampleZh": "这部电影避免使用关于郊区生活的刻板形象。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "suburban houses street",
+    "scene": "熟悉的典型形象可能只是刻板印象",
+    "source": "WordTrail original"
+  },
+  "havoc": {
+    "phonetic": "/ˈhævək/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "Widespread damage, disorder, or disruption.",
+        "zh": "严重破坏；混乱；大范围的扰乱。",
+        "exampleEn": "A sudden power failure caused havoc at the station.",
+        "exampleZh": "突然停电使车站陷入严重混乱。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "storm destruction debris",
+    "scene": "损坏与混乱充满现场",
+    "source": "WordTrail original"
+  },
+  "scene": {
+    "phonetic": "/siːn/",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A place and the things happening there at a particular time.",
+        "zh": "场景；某个地点及当时发生的事情。",
+        "exampleEn": "The scene outside the station was unusually quiet.",
+        "exampleZh": "车站外的场景异常安静。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "One part of a play or film that takes place in one setting.",
+        "zh": "戏剧或电影中的一场；一个片段。",
+        "exampleEn": "The opening scene introduces the main character.",
+        "exampleZh": "开场那一幕介绍了主角。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "n.",
+        "en": "The place where an event, especially a crime or accident, happened.",
+        "zh": "事件发生地点；犯罪或事故现场。",
+        "exampleEn": "Police quickly arrived at the scene of the accident.",
+        "exampleZh": "警方很快到达了事故现场。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "city street scene",
+    "scene": "观察城市街道的一幕",
+    "source": "WordTrail original"
+  },
+  "quasi-automatic": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Operating almost automatically, while still requiring some human input.",
+        "zh": "准自动的；基本自动运行但仍需部分人工参与的。",
+        "exampleEn": "The quasi-automatic system still needs a person to approve each transfer.",
+        "exampleZh": "这套准自动系统仍需要人工批准每次转账。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "automated industrial control",
+    "scene": "机器自动运行，关键步骤由人确认",
+    "source": "WordTrail original"
+  },
+  "self-enhancing": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Improving or presenting a favorable view of one's own qualities or worth.",
+        "zh": "自我提升的；提升或美化对自身品质、价值的看法的。",
+        "exampleEn": "Self-enhancing beliefs can make people overlook their weaknesses.",
+        "exampleZh": "自我拔高的想法可能使人忽视自己的弱点。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person mirror confidence",
+    "scene": "自我评价与镜中的形象",
+    "source": "WordTrail original"
+  },
+  "self-enhancement": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "The tendency or effort to see oneself in a more favorable way.",
+        "zh": "自我强化；自我拔高；倾向于更积极地看待自己。",
+        "exampleEn": "The study examined self-enhancement in personal judgments.",
+        "exampleZh": "这项研究考察了个人判断中的自我拔高倾向。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person confidence reflection",
+    "scene": "个人判断中的积极自我评价",
+    "source": "WordTrail original"
+  },
+  "nonparents": {
+    "senses": [
+      {
+        "pos": "n. plural",
+        "en": "People who do not have children.",
+        "zh": "无子女者；没有孩子的人。",
+        "exampleEn": "The survey compared the daily routines of parents and nonparents.",
+        "exampleZh": "这项调查比较了父母和无子女者的日常安排。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "adults community park",
+    "scene": "比较不同人群的日常生活",
+    "source": "WordTrail original"
+  },
+  "bleed-over": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "The spread of an effect from one area or situation into another.",
+        "zh": "渗透；某种影响从一个领域扩散到另一个领域。",
+        "exampleEn": "There was bleed-over from work stress into family life.",
+        "exampleZh": "工作压力的影响渗透到了家庭生活中。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "watercolor colors bleeding",
+    "scene": "颜色渗开，联想影响向外扩散",
+    "source": "WordTrail original"
+  },
+  "well-structured": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Organized into clear parts that fit together effectively.",
+        "zh": "结构良好的；条理清晰且各部分衔接合理的。",
+        "exampleEn": "A well-structured report makes the argument easier to follow.",
+        "exampleZh": "一份结构良好的报告使论证更容易理解。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "organized notes report",
+    "scene": "清晰的大纲让内容有条理",
+    "source": "WordTrail original"
+  },
+  "incentive-based": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Using rewards or other benefits to encourage particular actions.",
+        "zh": "基于激励的；通过奖励或好处鼓励特定行为的。",
+        "exampleEn": "The incentive-based program rewards households that save energy.",
+        "exampleZh": "这项激励计划奖励节约能源的家庭。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "reward achievement medal",
+    "scene": "奖励鼓励人们采取行动",
+    "source": "WordTrail original"
+  },
+  "prosociality": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A tendency to behave in ways that help or benefit other people.",
+        "zh": "亲社会性；倾向于帮助他人或让他人受益的行为特征。",
+        "exampleEn": "The researchers measured prosociality through acts of cooperation.",
+        "exampleZh": "研究者通过合作行为衡量亲社会性。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "volunteers helping community",
+    "scene": "互相帮助与合作",
+    "source": "WordTrail original"
+  },
+  "a handful of sb sth": {
+    "senses": [
+      {
+        "pos": "phrase",
+        "en": "A small number of people or things; the usual pattern is 'a handful of' plus a plural noun.",
+        "zh": "少数人或物；常见结构为 a handful of 加复数名词。",
+        "exampleEn": "Only a handful of students stayed after the lecture.",
+        "exampleZh": "讲座结束后，只有少数学生留了下来。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "a handful of people",
+          "a handful of"
+        ]
+      }
+    ],
+    "imageQuery": "small group students",
+    "scene": "一小群留下来的学生",
+    "source": "WordTrail original"
+  },
+  "rural economy": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Economic activities and livelihoods in countryside areas.",
+        "zh": "乡村经济；农村地区的经济活动与生计。",
+        "exampleEn": "Small farms remain important to the rural economy.",
+        "exampleZh": "小型农场对乡村经济仍然很重要。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rural farms countryside",
+    "scene": "农田与乡村生产活动",
+    "source": "WordTrail original"
+  },
+  "net-zero strategy": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A plan to balance greenhouse gas emissions with equivalent removals.",
+        "zh": "净零排放战略；使温室气体排放量与移除量达到平衡的计划。",
+        "exampleEn": "The company's net-zero strategy includes cutting energy use.",
+        "exampleZh": "公司的净零排放战略包括减少能源使用。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "renewable energy wind turbines forest",
+    "scene": "减少排放与增加碳移除",
+    "source": "WordTrail original"
+  },
+  "rewilding": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "Restoring an area so that natural processes and wildlife can recover.",
+        "zh": "再野化；恢复一个地区的自然过程与野生生物。",
+        "exampleEn": "Rewilding has brought native plants back to the valley.",
+        "exampleZh": "再野化使本地植物重新回到了这个山谷。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rewilding woodland wildlife",
+    "scene": "让本地植物和野生动物重新繁盛",
+    "source": "WordTrail original"
+  },
+  "wide range of": {
+    "senses": [
+      {
+        "pos": "phrase",
+        "en": "Many different types of something; often used as 'a wide range of'.",
+        "zh": "范围广泛的；各种各样的；常用 a wide range of。",
+        "exampleEn": "The library offers a wide range of books.",
+        "exampleZh": "这家图书馆提供各种各样的书籍。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "library diverse books",
+    "scene": "书架上种类丰富的图书",
+    "source": "WordTrail original"
+  },
+  "service norms": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Shared rules or expectations about how a service should be provided.",
+        "zh": "服务规范；对服务提供方式的共同规则或期待。",
+        "exampleEn": "Clear service norms help staff respond consistently.",
+        "exampleZh": "清晰的服务规范有助于员工以一致的方式回应顾客。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "customer service staff",
+    "scene": "工作人员遵循共同的服务标准",
+    "source": "WordTrail original"
+  },
+  "digital payment devices": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Electronic equipment used to make or accept payments.",
+        "zh": "数字支付设备；用于进行或接收电子支付的设备。",
+        "exampleEn": "Digital payment devices are now common in small shops.",
+        "exampleZh": "数字支付设备如今在小商店里很常见。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "payment terminal card reader",
+    "scene": "刷卡机与电子支付",
+    "source": "WordTrail original"
+  },
+  "tip requests": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Messages or questions asking customers to leave a gratuity.",
+        "zh": "索要小费的提示或请求。",
+        "exampleEn": "Tip requests appeared on the screen before the payment was complete.",
+        "exampleZh": "付款完成之前，屏幕上就出现了索要小费的提示。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "payment terminal tip screen",
+    "scene": "结账屏幕出现小费请求",
+    "source": "WordTrail original"
+  },
+  "ever-higher": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Increasing to higher and higher levels.",
+        "zh": "越来越高的；持续升高的。",
+        "exampleEn": "Ever-higher prices put pressure on household budgets.",
+        "exampleZh": "越来越高的价格给家庭预算带来压力。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rising price chart",
+    "scene": "价格曲线不断向上",
+    "source": "WordTrail original"
+  },
+  "be dissociated": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be separated or no longer connected; often followed by 'from'.",
+        "zh": "被分离；与某事脱节；常接 from。",
+        "exampleEn": "The decision should not be dissociated from its social context.",
+        "exampleZh": "这一决定不应该脱离其社会背景来理解。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "separated puzzle pieces",
+    "scene": "彼此分离、失去联系的拼图",
+    "source": "WordTrail original"
+  },
+  "be intended to": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To have a particular purpose or planned effect; followed by a verb.",
+        "zh": "旨在；目的是；后接动词表示计划实现的作用。",
+        "exampleEn": "The new policy is intended to reduce waiting times.",
+        "exampleZh": "这项新政策旨在减少等待时间。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "is intended to",
+          "are intended to",
+          "was intended to"
+        ]
+      }
+    ],
+    "imageQuery": "planning target goal",
+    "scene": "围绕目标制定计划",
+    "source": "WordTrail original"
+  },
+  "be on waitlists": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be listed among people waiting for a place, service, or treatment.",
+        "zh": "在等候名单上；排队等待名额、服务或治疗。",
+        "exampleEn": "Many patients are on waitlists for routine surgery.",
+        "exampleZh": "许多患者在等候名单上等待常规手术。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "are on waitlists",
+          "is on a waitlist"
+        ]
+      }
+    ],
+    "imageQuery": "waiting room hospital patients",
+    "scene": "患者等待安排治疗",
+    "source": "WordTrail original"
+  },
+  "opt to do": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To choose to take a particular action; 'do' stands for the action verb.",
+        "zh": "选择做某事；do 表示随后替换的动作动词。",
+        "exampleEn": "Some residents opt to travel by bus.",
+        "exampleZh": "一些居民选择乘公交车出行。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "opt to",
+          "opted to"
+        ]
+      }
+    ],
+    "imageQuery": "person choosing bus transport",
+    "scene": "选择一种出行方式",
+    "source": "WordTrail original"
+  },
+  "private medical services": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Healthcare provided by privately run organizations or practitioners.",
+        "zh": "私立医疗服务；由私人经营的机构或医务人员提供的医疗服务。",
+        "exampleEn": "Private medical services may offer shorter waiting times.",
+        "exampleZh": "私立医疗服务可能提供较短的等待时间。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "private clinic healthcare",
+    "scene": "诊所提供医疗服务",
+    "source": "WordTrail original"
+  },
+  "well rehearsed": {
+    "senses": [
+      {
+        "pos": "adj. phrase",
+        "en": "Practiced carefully before being performed.",
+        "zh": "经过充分排练的；事先练习熟练的。",
+        "exampleEn": "The students gave a well rehearsed performance.",
+        "exampleZh": "学生们呈现了一场经过充分排练的演出。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adj. phrase",
+        "en": "Repeated or discussed so often that it has become familiar.",
+        "zh": "被反复讨论而令人熟悉的；老生常谈的。",
+        "exampleEn": "The objections to the plan were already well rehearsed.",
+        "exampleZh": "对这项计划的反对意见早已是老生常谈。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rehearsal performers stage",
+    "scene": "反复排练，熟悉每个细节",
+    "source": "WordTrail original"
+  },
+  "be troubled": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To feel worried or be affected by a problem.",
+        "zh": "感到困扰；受到某种问题的影响。",
+        "exampleEn": "Residents were troubled by the rising cost of care.",
+        "exampleZh": "居民们受到护理费用上涨的困扰。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "were troubled"
+        ]
+      }
+    ],
+    "imageQuery": "worried person thinking",
+    "scene": "面对问题而担忧",
+    "source": "WordTrail original"
+  },
+  "social care": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Support that helps people manage daily life when they need assistance.",
+        "zh": "社会护理；为日常生活需要帮助的人提供的支持服务。",
+        "exampleEn": "Social care can help older people live independently.",
+        "exampleZh": "社会护理可以帮助老年人独立生活。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "elderly care caregiver",
+    "scene": "护理人员帮助长者生活",
+    "source": "WordTrail original"
+  },
+  "reform think tank": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A research organization that develops ideas for changing policies or institutions.",
+        "zh": "改革智库；研究并提出政策或制度改革方案的机构。",
+        "exampleEn": "A reform think tank published proposals for better public services.",
+        "exampleZh": "一家改革智库发布了改善公共服务的建议。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "policy researchers meeting",
+    "scene": "研究人员讨论政策改革方案",
+    "source": "WordTrail original"
+  },
+  "hospital-centric": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Organized mainly around hospitals and their role in care.",
+        "zh": "以医院为中心的；主要围绕医院组织医疗服务的。",
+        "exampleEn": "The report calls for a less hospital-centric model of care.",
+        "exampleZh": "这份报告呼吁减少护理模式对医院的集中依赖。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "hospital building medical",
+    "scene": "医院处于医疗体系的中心",
+    "source": "WordTrail original"
+  },
+  "it is estimated that": {
+    "senses": [
+      {
+        "pos": "sentence frame",
+        "en": "A phrase used to introduce an approximate calculation or judgment.",
+        "zh": "据估计；用于引出大致的计算结果或判断。",
+        "exampleEn": "It is estimated that the repairs will take two weeks.",
+        "exampleZh": "据估计，维修将需要两周时间。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "estimated calculation report",
+    "scene": "用数据给出大致估计",
+    "source": "WordTrail original"
+  },
+  "hefty price": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A very large amount of money paid for something.",
+        "zh": "高昂的价格或费用。",
+        "exampleEn": "The family paid a hefty price for private treatment.",
+        "exampleZh": "这个家庭为私立医疗支付了高昂的费用。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "large bill payment",
+    "scene": "一张费用高昂的账单",
+    "source": "WordTrail original"
+  },
+  "heat action plans": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Plans for preparing for and responding to dangerously hot weather.",
+        "zh": "高温行动计划；应对危险高温天气的准备和行动方案。",
+        "exampleEn": "Cities updated their heat action plans before summer.",
+        "exampleZh": "各城市在夏季到来之前更新了高温行动计划。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "heatwave city shade water",
+    "scene": "高温天气下的避暑与应对",
+    "source": "WordTrail original"
+  },
+  "construction laborers": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "Workers who do physical work on building sites.",
+        "zh": "建筑工人；在施工现场从事体力劳动的人员。",
+        "exampleEn": "Construction laborers took extra breaks during the heatwave.",
+        "exampleZh": "热浪期间，建筑工人增加了休息次数。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "construction workers building site",
+    "scene": "工人在建筑工地施工",
+    "source": "WordTrail original"
+  },
+  "emergency warning": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "An urgent alert about a serious danger or approaching threat.",
+        "zh": "紧急预警；关于严重危险或临近威胁的紧急提示。",
+        "exampleEn": "The emergency warning told residents to leave the area.",
+        "exampleZh": "紧急预警通知居民撤离该区域。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "emergency warning siren",
+    "scene": "警报提醒人们立即应对",
+    "source": "WordTrail original"
+  },
+  "triggering threshold": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "The level at which a condition causes an action or response to begin.",
+        "zh": "触发阈值；达到后会启动某种行动或反应的临界水平。",
+        "exampleEn": "The alert begins when the temperature reaches the triggering threshold.",
+        "exampleZh": "温度达到触发阈值时，预警就会启动。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "temperature gauge threshold",
+    "scene": "数值达到临界点，系统启动预警",
+    "source": "WordTrail original"
+  },
+  "trodden dirt track": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "An unpaved path formed or marked by repeated footsteps.",
+        "zh": "踩踏出来的土路；反复走动形成的无铺装小径。",
+        "exampleEn": "A trodden dirt track led across the field.",
+        "exampleZh": "一条踩踏出来的土路穿过田野。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "dirt footpath field",
+    "scene": "脚步在田间走出一条小路",
+    "source": "WordTrail original"
+  },
+  "bisect lawns": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To divide lawns into two parts by crossing through them.",
+        "zh": "穿过草坪并将其分成两部分。",
+        "exampleEn": "Narrow paths bisect lawns in the park.",
+        "exampleZh": "狭窄的小路穿过公园的草坪，将其分成两部分。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "footpath across lawn",
+    "scene": "小路穿过草坪",
+    "source": "WordTrail original"
+  },
+  "proceed to do": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To go on to take the next action; 'do' stands for the action verb.",
+        "zh": "接着做某事；继续进行下一步行动。",
+        "exampleEn": "After reading the instructions, she proceeded to fill in the form.",
+        "exampleZh": "读完说明后，她接着填写了表格。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "proceed to",
+          "proceeded to"
+        ]
+      }
+    ],
+    "imageQuery": "person filling form instructions",
+    "scene": "读完说明，接着完成下一步",
+    "source": "WordTrail original"
+  },
+  "web-page": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A document or screen of information that can be viewed on a website.",
+        "zh": "网页；网站上可以浏览的一页信息。",
+        "exampleEn": "The web-page explains how to join the course.",
+        "exampleZh": "这个网页说明了如何加入课程。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "website browser computer",
+    "scene": "浏览器中的一页信息",
+    "source": "WordTrail original"
+  },
+  "be devoted to": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To give much of one's time, effort, or attention to something.",
+        "zh": "致力于；把大量时间、精力或注意力投入某事。",
+        "exampleEn": "The team is devoted to protecting local wildlife.",
+        "exampleZh": "这个团队致力于保护当地野生生物。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "is devoted to",
+          "was devoted to"
+        ]
+      }
+    ],
+    "imageQuery": "volunteers wildlife conservation",
+    "scene": "持续投入精力保护野生生物",
+    "source": "WordTrail original"
+  },
+  "be adorned with": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be decorated with something that adds beauty.",
+        "zh": "装饰有；用增添美感的事物进行装饰。",
+        "exampleEn": "The entrance is adorned with flowers.",
+        "exampleZh": "入口装饰着鲜花。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "is adorned with",
+          "was adorned with"
+        ]
+      }
+    ],
+    "imageQuery": "entrance decorated flowers",
+    "scene": "鲜花装饰着入口",
+    "source": "WordTrail original"
+  },
+  "user-driven": {
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "Shaped or guided mainly by users' needs, actions, or feedback.",
+        "zh": "用户驱动的；主要由用户需求、行为或反馈推动的。",
+        "exampleEn": "The user-driven design process began with interviews.",
+        "exampleZh": "用户驱动的设计流程从访谈开始。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "user feedback design workshop",
+    "scene": "用户反馈引导设计改进",
+    "source": "WordTrail original"
+  },
+  "grid-based system": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A system that arranges or organizes things using a grid.",
+        "zh": "网格系统；用网格安排或组织事物的系统。",
+        "exampleEn": "The map uses a grid-based system to mark locations.",
+        "exampleZh": "这张地图使用网格系统标记位置。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "map grid layout",
+    "scene": "网格帮助定位与组织",
+    "source": "WordTrail original"
+  },
+  "be applied": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be used in a particular situation or for a particular purpose.",
+        "zh": "被应用；被用于某种情境或目的。",
+        "exampleEn": "The method can be applied to other subjects.",
+        "exampleZh": "这种方法可以被用于其他学科。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "practical research application",
+    "scene": "把方法用于新的实际情境",
+    "source": "WordTrail original"
+  },
+  "mental well-being": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A healthy and generally positive state of mind and emotional life.",
+        "zh": "心理健康；总体良好的心理与情绪状态。",
+        "exampleEn": "Regular exercise can support mental well-being.",
+        "exampleZh": "规律运动可以促进心理健康。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "peaceful person nature walk",
+    "scene": "在自然中散步，照顾心理状态",
+    "source": "WordTrail original"
+  },
+  "shared trait": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A characteristic that two or more people or things have in common.",
+        "zh": "共同特征；两个或多个对象共有的特点。",
+        "exampleEn": "Curiosity is a shared trait among the researchers.",
+        "exampleZh": "好奇心是这些研究者共有的特征。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "people collaboration common interests",
+    "scene": "不同人身上的共同特点",
+    "source": "WordTrail original"
+  },
+  "culture department": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "An administrative unit responsible for cultural matters.",
+        "zh": "文化部门；负责文化事务的行政单位。",
+        "exampleEn": "The culture department supports local exhibitions.",
+        "exampleZh": "文化部门支持当地的展览活动。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "cultural exhibition city",
+    "scene": "文化部门支持城市展览",
+    "source": "WordTrail original"
+  },
+  "independent review": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "An assessment carried out without control by those being assessed.",
+        "zh": "独立评估；由不受被评估方控制的人员开展的审查。",
+        "exampleEn": "An independent review examined the project's results.",
+        "exampleZh": "一项独立评估审查了这个项目的成果。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "review report evaluation",
+    "scene": "独立人员审查项目成果",
+    "source": "WordTrail original"
+  },
+  "hive of activity": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "A place where many people are busy doing different things.",
+        "zh": "忙碌的场所；许多人同时忙于各种活动的地方。",
+        "exampleEn": "The library became a hive of activity before the exams.",
+        "exampleZh": "考试之前，图书馆成了一个忙碌的场所。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "busy library students",
+    "scene": "图书馆里大家都在忙碌学习",
+    "source": "WordTrail original"
+  },
+  "underappreciate": {
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To value or recognize someone or something less than they deserve.",
+        "zh": "未充分认可；低估应有的价值或贡献。",
+        "exampleEn": "People often underappreciate the work of local volunteers.",
+        "exampleZh": "人们常常没有充分认可当地志愿者的工作。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "community volunteers working",
+    "scene": "值得更多认可的志愿者工作",
+    "source": "WordTrail original"
+  },
+  "put at": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To estimate an amount as a particular number.",
+        "zh": "将某一数量估算为；后接估计数值。",
+        "exampleEn": "Experts put the cost at around two million dollars.",
+        "exampleZh": "专家将费用估算为大约两百万美元。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "put the cost at"
+        ]
+      }
+    ],
+    "imageQuery": "calculator cost estimate",
+    "scene": "用一个数值给出估算",
+    "source": "WordTrail original"
+  },
+  "primary reasons": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "The most important causes or explanations for something.",
+        "zh": "主要原因；最重要的成因或解释。",
+        "exampleEn": "Cost and convenience were the primary reasons for the change.",
+        "exampleZh": "成本和便利性是这次改变的主要原因。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "decision causes diagram",
+    "scene": "找出影响决定的主要原因",
+    "source": "WordTrail original"
+  },
+  "cultural vibrancy": {
+    "senses": [
+      {
+        "pos": "n. phrase",
+        "en": "The lively and diverse character of a place's cultural life.",
+        "zh": "文化活力；一个地方文化生活的活跃和多样性。",
+        "exampleEn": "Local festivals add to the city's cultural vibrancy.",
+        "exampleZh": "当地节庆活动增强了这座城市的文化活力。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "cultural festival performers",
+    "scene": "节庆表演让城市充满文化活力",
+    "source": "WordTrail original"
+  },
+  "strive to do": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To make a strong effort to take an action or achieve a goal.",
+        "zh": "努力做某事；为行动或目标付出很大努力。",
+        "exampleEn": "The students strive to improve their reading skills.",
+        "exampleZh": "学生们努力提高自己的阅读能力。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "strive to",
+          "strives to"
+        ]
+      }
+    ],
+    "imageQuery": "students studying determined",
+    "scene": "为学习目标持续努力",
+    "source": "WordTrail original"
+  },
+  "rose-tint": {
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "To give something a pink or rosy color.",
+        "zh": "染上玫瑰色；使呈粉红色。",
+        "exampleEn": "The evening light rose-tinted the clouds.",
+        "exampleZh": "傍晚的光线把云朵染成了玫瑰色。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "rose-tinted"
+        ]
+      },
+      {
+        "pos": "v.",
+        "en": "To make something appear better or more pleasant than it really is.",
+        "zh": "粉饰；美化；把事物看得比实际更美好。",
+        "exampleEn": "Nostalgia can rose-tint our memories of the past.",
+        "exampleZh": "怀旧之情会美化我们对过去的记忆。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "rosy sunset clouds",
+    "scene": "玫瑰色的晚霞，联想美化回忆",
+    "source": "WordTrail original"
+  },
+  "prompt sb. to do sth.": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To encourage or cause someone to take a particular action.",
+        "zh": "提示或促使某人做某事。",
+        "exampleEn": "The reminder prompted me to finish the form.",
+        "exampleZh": "这条提醒促使我填完了表格。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "prompted me to"
+        ]
+      }
+    ],
+    "imageQuery": "reminder note form",
+    "scene": "提醒促使人采取行动",
+    "source": "WordTrail original"
+  },
+  "have less to do with": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be connected with something to a smaller degree.",
+        "zh": "与某事的关联更小；与某事关系较少。",
+        "exampleEn": "The result may have less to do with talent than with practice.",
+        "exampleZh": "这个结果可能更多地与练习有关，而不是与天赋有关。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "has less to do with",
+          "have less to do with"
+        ]
+      }
+    ],
+    "imageQuery": "student practice notebook",
+    "scene": "比较不同因素与结果的联系",
+    "source": "WordTrail original"
+  },
+  "make it easier to do sth.": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To reduce the difficulty of taking a particular action.",
+        "zh": "使做某事变得更容易。",
+        "exampleEn": "Clear examples make it easier to understand the rules.",
+        "exampleZh": "清晰的例子使理解规则变得更容易。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "make it easier to",
+          "makes it easier to"
+        ]
+      }
+    ],
+    "imageQuery": "clear instructions steps",
+    "scene": "清晰的步骤让任务更容易",
+    "source": "WordTrail original"
+  },
+  "the national health service (nhs)": {
+    "senses": [
+      {
+        "pos": "proper noun phrase",
+        "en": "The publicly funded healthcare service in the United Kingdom.",
+        "zh": "英国国民医疗服务体系；由公共资金支持的医疗服务体系。",
+        "exampleEn": "The National Health Service provides a wide range of medical care.",
+        "exampleZh": "英国国民医疗服务体系提供广泛的医疗服务。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "The National Health Service"
+        ]
+      }
+    ],
+    "imageQuery": "NHS hospital United Kingdom",
+    "scene": "英国的公共医疗服务",
+    "source": "WordTrail original"
+  },
+  "lighten the burden of": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To make a responsibility, difficulty, or cost less heavy or demanding.",
+        "zh": "减轻某种责任、困难或费用带来的负担。",
+        "exampleEn": "The new service helps lighten the burden of caring for relatives.",
+        "exampleZh": "这项新服务有助于减轻照顾亲属的负担。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "caregiver support helping elderly",
+    "scene": "分担照护任务，减轻负担",
+    "source": "WordTrail original"
+  },
+  "keep sth. under great pressure": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To cause something to remain under a high level of strain or demand.",
+        "zh": "使某事物持续承受巨大压力或负荷。",
+        "exampleEn": "Extreme heat keeps the power system under great pressure.",
+        "exampleZh": "极端高温使电力系统持续承受巨大压力。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "keeps the power system under great pressure"
+        ]
+      }
+    ],
+    "imageQuery": "power system heatwave",
+    "scene": "高温让电力系统承受压力",
+    "source": "WordTrail original"
+  },
+  "be bolstered with": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To be strengthened or supported by adding something useful.",
+        "zh": "通过增加有用的事物得到加强或支持；原词汇表语境译为配备有。",
+        "exampleEn": "The plan was bolstered with extra funding.",
+        "exampleZh": "这项计划通过额外资金得到了加强。",
+        "source": "WordTrail original",
+        "surfaceForms": [
+          "was bolstered with",
+          "is bolstered with"
+        ]
+      }
+    ],
+    "imageQuery": "funding support project",
+    "scene": "额外资源为计划提供支持",
+    "source": "WordTrail original"
+  },
+  "spring to mind": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To come into one's thoughts immediately or unexpectedly.",
+        "zh": "立即被想到；突然浮现在脑海中。",
+        "exampleEn": "Her name was the first to spring to mind.",
+        "exampleZh": "她的名字是第一个浮现在我脑海中的名字。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "person idea lightbulb",
+    "scene": "一个想法突然出现在脑海中",
+    "source": "WordTrail original"
+  },
+  "up and down": {
+    "senses": [
+      {
+        "pos": "adv. phrase",
+        "en": "In both directions along or throughout a place.",
+        "zh": "来回；到处；遍及某一地方。",
+        "exampleEn": "Small clinics operate up and down the country.",
+        "exampleZh": "小型诊所遍布全国各地。",
+        "source": "WordTrail original"
+      },
+      {
+        "pos": "adv. phrase",
+        "en": "Alternately in a higher and a lower direction or position.",
+        "zh": "上下地；交替向上和向下。",
+        "exampleEn": "The child jumped up and down with excitement.",
+        "exampleZh": "孩子兴奋地上下跳跃。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "people places country map",
+    "scene": "各地都有活动，或上下运动",
+    "source": "WordTrail original"
+  },
+  "spill the beans": {
+    "senses": [
+      {
+        "pos": "v. phrase",
+        "en": "To reveal information that was supposed to remain secret.",
+        "zh": "泄露秘密；说漏嘴。",
+        "exampleEn": "Please don't spill the beans about the surprise party.",
+        "exampleZh": "请不要说漏嘴，透露惊喜派对的秘密。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "friends secret conversation",
+    "scene": "一不小心把秘密说了出来",
+    "source": "WordTrail original"
+  },
+  "in terms of": {
+    "senses": [
+      {
+        "pos": "prep. phrase",
+        "en": "With regard to a particular aspect or way of considering something.",
+        "zh": "在某个方面；从某种角度来看。",
+        "exampleEn": "The bus is better in terms of cost.",
+        "exampleZh": "从费用的角度来看，公交车更合适。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "transport cost comparison",
+    "scene": "从费用这个角度比较选择",
+    "source": "WordTrail original"
+  },
+  "in the meantime": {
+    "senses": [
+      {
+        "pos": "adv. phrase",
+        "en": "During the time before another event happens.",
+        "zh": "在此期间；与此同时；等待另一件事发生的这段时间。",
+        "exampleEn": "The repairs will take a week; in the meantime, use the other room.",
+        "exampleZh": "维修需要一周；在此期间，请使用另一个房间。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "clock waiting time",
+    "scene": "等待下一件事发生的这段时间",
+    "source": "WordTrail original"
+  },
+  "festgoer": {
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "A person who attends a festival; a shortened form used in the source vocabulary list.",
+        "zh": "节庆活动参与者；原词汇表使用的缩略词形。",
+        "exampleEn": "The festgoer arrived early to enjoy the music.",
+        "exampleZh": "这位节庆活动参与者早早到达，准备欣赏音乐。",
+        "source": "WordTrail original"
+      }
+    ],
+    "imageQuery": "festival crowd music",
+    "scene": "参加节庆音乐活动的人群",
+    "source": "WordTrail original"
+  },
+  "perfect": {
+    "senses": [
+      {
+        "id": "wordtrail:perfect:0",
+        "pos": "v.",
+        "en": "To improve something until it is as good as possible.",
+        "zh": "完善；使尽可能完美。",
+        "exampleEn": "She practiced every day to perfect her technique.",
+        "exampleZh": "她每天练习，以完善自己的技术。",
+        "imageQuery": "musician practicing violin",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "musician practicing violin"
+  },
+  "shrewd": {
+    "senses": [
+      {
+        "id": "wordtrail:shrewd:0",
+        "pos": "adj.",
+        "en": "Good at understanding situations and making practical decisions.",
+        "zh": "精明的；善于判断的。",
+        "exampleEn": "A shrewd buyer compares prices before making a decision.",
+        "exampleZh": "精明的买家会在作决定前比较价格。",
+        "imageQuery": "shopping market customer",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "shopping market customer"
+  },
+  "jury": {
+    "senses": [
+      {
+        "id": "wordtrail:jury:0",
+        "pos": "n.",
+        "en": "A group of people who decide the facts of a case in court.",
+        "zh": "陪审团；在法庭上裁定案件事实的一组人。",
+        "exampleEn": "The jury listened carefully to the evidence.",
+        "exampleZh": "陪审团认真听取了证据。",
+        "imageQuery": "courtroom jury",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "courtroom jury"
+  },
+  "prohibit": {
+    "senses": [
+      {
+        "id": "wordtrail:prohibit:0",
+        "pos": "v.",
+        "en": "To officially forbid an action.",
+        "zh": "正式禁止某种行为。",
+        "exampleEn": "The rules prohibit smoking inside the building.",
+        "exampleZh": "规定禁止在楼内吸烟。",
+        "imageQuery": "no smoking sign",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "no smoking sign"
+  },
+  "criticism": {
+    "senses": [
+      {
+        "id": "wordtrail:criticism:0",
+        "pos": "n.",
+        "en": "Comments that express disapproval or point out faults.",
+        "zh": "批评；指出缺点或表示不赞同的意见。",
+        "exampleEn": "The plan faced criticism because it ignored local needs.",
+        "exampleZh": "这项计划因忽视当地需求而受到批评。",
+        "imageQuery": "public meeting discussion",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "public meeting discussion"
+  },
+  "compensation": {
+    "senses": [
+      {
+        "id": "wordtrail:compensation:0",
+        "pos": "n.",
+        "en": "Money paid for work, loss, or injury.",
+        "zh": "报酬；对劳动、损失或伤害的金钱补偿。",
+        "exampleEn": "The company offered compensation for the extra hours of work.",
+        "exampleZh": "公司为额外的工作时间提供了报酬。",
+        "imageQuery": "worker office payment",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "worker office payment"
+  },
+  "recession": {
+    "senses": [
+      {
+        "id": "wordtrail:recession:0",
+        "pos": "n.",
+        "en": "A period when economic activity falls.",
+        "zh": "经济衰退；经济活动下降的时期。",
+        "exampleEn": "Many small businesses closed during the recession.",
+        "exampleZh": "许多小企业在经济衰退期间倒闭了。",
+        "imageQuery": "closed shop economic recession",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "closed shop economic recession"
+  },
+  "delivery": {
+    "senses": [
+      {
+        "id": "wordtrail:delivery:0",
+        "pos": "n.",
+        "en": "The act of bringing goods or messages to someone.",
+        "zh": "投递；递送货物或信息。",
+        "exampleEn": "The delivery of fresh food takes place every morning.",
+        "exampleZh": "新鲜食品每天早晨配送。",
+        "imageQuery": "delivery bicycle food",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "delivery bicycle food"
+  },
+  "prosperity": {
+    "senses": [
+      {
+        "id": "wordtrail:prosperity:0",
+        "pos": "n.",
+        "en": "The condition of being successful and having enough money.",
+        "zh": "繁荣；经济上成功和富足的状态。",
+        "exampleEn": "Education can contribute to a country's prosperity.",
+        "exampleZh": "教育可以促进一个国家的繁荣。",
+        "imageQuery": "city market business",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "city market business"
+  },
+  "restraint": {
+    "senses": [
+      {
+        "id": "wordtrail:restraint:0",
+        "pos": "n.",
+        "en": "Control that prevents excessive action or emotion.",
+        "zh": "克制；对行为或情绪的控制。",
+        "exampleEn": "The speaker showed restraint despite the angry comments.",
+        "exampleZh": "面对愤怒的评论，发言人仍保持克制。",
+        "imageQuery": "meeting discussion speaker",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "meeting discussion speaker"
+  },
+  "pervasive": {
+    "senses": [
+      {
+        "id": "wordtrail:pervasive:0",
+        "pos": "adj.",
+        "en": "Present or noticeable throughout a place or society.",
+        "zh": "普遍的；遍布某处或某个社会的。",
+        "exampleEn": "Digital technology has a pervasive influence on daily life.",
+        "exampleZh": "数字技术对日常生活有广泛影响。",
+        "imageQuery": "city smartphone technology",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "city smartphone technology"
+  },
+  "amplify": {
+    "senses": [
+      {
+        "id": "wordtrail:amplify:0",
+        "pos": "v.",
+        "en": "To make a sound, effect, or problem stronger.",
+        "zh": "增强；放大声音、影响或问题。",
+        "exampleEn": "Social media can amplify a small disagreement.",
+        "exampleZh": "社交媒体可能放大一个小小的分歧。",
+        "imageQuery": "social media mobile phone",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "social media mobile phone"
+  },
+  "patent": {
+    "senses": [
+      {
+        "id": "wordtrail:patent:0",
+        "pos": "n.",
+        "en": "A legal right that protects an invention.",
+        "zh": "专利；保护发明的法律权利。",
+        "exampleEn": "The researcher applied for a patent for the new device.",
+        "exampleZh": "研究者为这个新装置申请了专利。",
+        "imageQuery": "inventor laboratory device",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "inventor laboratory device"
+  },
+  "isolate": {
+    "senses": [
+      {
+        "id": "wordtrail:isolate:0",
+        "pos": "v.",
+        "en": "To separate something so that it can be examined.",
+        "zh": "分离；将某物单独分开以便研究。",
+        "exampleEn": "Scientists isolate the molecule before testing it.",
+        "exampleZh": "科学家在测试前先分离该分子。",
+        "imageQuery": "laboratory scientist molecule",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "laboratory scientist molecule"
+  },
+  "inclusive": {
+    "senses": [
+      {
+        "id": "wordtrail:inclusive:0",
+        "pos": "adj.",
+        "en": "Allowing many kinds of people to take part.",
+        "zh": "包容的；允许不同人群参与的。",
+        "exampleEn": "An inclusive classroom helps every student feel welcome.",
+        "exampleZh": "包容的课堂让每个学生都感到被接纳。",
+        "imageQuery": "students classroom group",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "students classroom group"
+  },
+  "reshape": {
+    "senses": [
+      {
+        "id": "wordtrail:reshape:0",
+        "pos": "v.",
+        "en": "To change the form or character of something.",
+        "zh": "重塑；改变形态或性质。",
+        "exampleEn": "New technology may reshape the way people work.",
+        "exampleZh": "新技术可能重塑人们的工作方式。",
+        "imageQuery": "modern office technology",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "modern office technology"
+  },
+  "immigrant": {
+    "senses": [
+      {
+        "id": "wordtrail:immigrant:0",
+        "pos": "n.",
+        "en": "A person who comes to live in another country.",
+        "zh": "移民；到另一个国家定居的人。",
+        "exampleEn": "The immigrant opened a small shop in her new neighborhood.",
+        "exampleZh": "这位移民在她的新社区开了一家小店。",
+        "imageQuery": "neighborhood grocery shop",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "neighborhood grocery shop"
+  },
+  "thrive": {
+    "senses": [
+      {
+        "id": "wordtrail:thrive:0",
+        "pos": "v.",
+        "en": "To grow, develop, or succeed strongly.",
+        "zh": "繁荣；茁壮成长；发展良好。",
+        "exampleEn": "Small businesses thrive when local demand grows.",
+        "exampleZh": "当地需求增长时，小企业会蓬勃发展。",
+        "imageQuery": "busy local market",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "busy local market"
+  },
+  "prone": {
+    "senses": [
+      {
+        "id": "wordtrail:prone:0",
+        "pos": "adj.",
+        "en": "Likely to suffer from or do something undesirable.",
+        "zh": "易于遭受或做出某种不利行为的。",
+        "exampleEn": "People are prone to mistakes when they rush.",
+        "exampleZh": "人们匆忙时容易犯错。",
+        "imageQuery": "person work desk",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "person work desk"
+  },
+  "impulse": {
+    "senses": [
+      {
+        "id": "wordtrail:impulse:0",
+        "pos": "n.",
+        "en": "A sudden desire to do something.",
+        "zh": "冲动；突然产生的行动欲望。",
+        "exampleEn": "She resisted the impulse to buy another pair of shoes.",
+        "exampleZh": "她克制了再买一双鞋的冲动。",
+        "imageQuery": "shoe shop window",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "shoe shop window"
+  },
+  "corporate": {
+    "senses": [
+      {
+        "id": "wordtrail:corporate:0",
+        "pos": "adj.",
+        "en": "Related to a company or a group of companies.",
+        "zh": "公司的；企业的。",
+        "exampleEn": "The report examines corporate responsibility for pollution.",
+        "exampleZh": "这份报告探讨了企业对污染应承担的责任。",
+        "imageQuery": "factory environment",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "factory environment"
+  },
+  "binding": {
+    "senses": [
+      {
+        "id": "wordtrail:binding:0",
+        "pos": "adj.",
+        "en": "Creating an obligation that must be followed.",
+        "zh": "有约束力的；使人必须遵守的。",
+        "exampleEn": "The agreement becomes binding after both sides sign it.",
+        "exampleZh": "双方签字后，该协议便具有约束力。",
+        "imageQuery": "signing contract desk",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "signing contract desk"
+  },
+  "widow": {
+    "senses": [
+      {
+        "id": "wordtrail:widow:0",
+        "pos": "n.",
+        "en": "A woman whose spouse has died and who has not remarried.",
+        "zh": "寡妇；配偶去世后尚未再婚的女性。",
+        "exampleEn": "The widow continued to manage the family business.",
+        "exampleZh": "这位寡妇继续经营家族生意。",
+        "imageQuery": "woman small business",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "woman small business"
+  },
+  "emerge": {
+    "senses": [
+      {
+        "id": "wordtrail:emerge:0",
+        "pos": "v.",
+        "en": "To become visible or known.",
+        "zh": "出现；开始显现或被认知。",
+        "exampleEn": "A clearer picture began to emerge from the evidence.",
+        "exampleZh": "随着证据出现，事情逐渐变得清晰。",
+        "imageQuery": "research documents desk",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "research documents desk"
+  },
+  "lag": {
+    "senses": [
+      {
+        "id": "wordtrail:lag:0",
+        "pos": "v.",
+        "en": "To move or develop more slowly than someone or something.",
+        "zh": "落后；进展更慢。",
+        "exampleEn": "Rural internet access may lag behind that of cities.",
+        "exampleZh": "农村的互联网接入可能落后于城市。",
+        "imageQuery": "rural village computer",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "rural village computer"
+  },
+  "grant": {
+    "senses": [
+      {
+        "id": "wordtrail:grant:0",
+        "pos": "n.",
+        "en": "Money given for a particular purpose, often study or research.",
+        "zh": "拨款；常用于学习或研究的资助。",
+        "exampleEn": "The student received a grant to continue her research.",
+        "exampleZh": "这位学生获得了一笔资助，以继续研究。",
+        "imageQuery": "university laboratory student",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "university laboratory student"
+  },
+  "lingua franca": {
+    "senses": [
+      {
+        "id": "wordtrail:lingua franca:0",
+        "pos": "n.",
+        "en": "A language used by people with different first languages.",
+        "zh": "通用语；不同母语的人之间使用的共同语言。",
+        "exampleEn": "English often serves as a lingua franca at international meetings.",
+        "exampleZh": "在国际会议上，英语常用作通用语。",
+        "imageQuery": "international conference meeting",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "international conference meeting"
+  },
+  "allegiance": {
+    "senses": [
+      {
+        "id": "wordtrail:allegiance:0",
+        "pos": "n.",
+        "en": "Loyalty to a person, organization, or belief.",
+        "zh": "忠诚；对个人、组织或信念的拥护。",
+        "exampleEn": "Their allegiance to the organization remained strong.",
+        "exampleZh": "他们对该组织仍然十分忠诚。",
+        "imageQuery": "team people group",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "team people group"
+  },
+  "decent": {
+    "senses": [
+      {
+        "id": "wordtrail:decent:0",
+        "pos": "adj.",
+        "en": "Good enough in quality or standard.",
+        "zh": "相当好的；达到合适标准的。",
+        "exampleEn": "Everyone deserves a decent place to live.",
+        "exampleZh": "每个人都应有一个条件不错的住所。",
+        "imageQuery": "apartment housing",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "apartment housing"
+  },
+  "overlook": {
+    "senses": [
+      {
+        "id": "wordtrail:overlook:0",
+        "pos": "v.",
+        "en": "To fail to notice or consider something.",
+        "zh": "忽略；没有注意或考虑到。",
+        "exampleEn": "Do not overlook the small details in the report.",
+        "exampleZh": "不要忽略报告中的小细节。",
+        "imageQuery": "person reading report",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "person reading report"
+  },
+  "coding": {
+    "senses": [
+      {
+        "id": "wordtrail:coding:0",
+        "pos": "n.",
+        "en": "The activity of writing instructions for computers.",
+        "zh": "编程；为计算机编写指令的活动。",
+        "exampleEn": "The school introduced coding to help students solve problems.",
+        "exampleZh": "学校引入编程，帮助学生解决问题。",
+        "imageQuery": "students computer classroom",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "students computer classroom"
+  },
+  "essential": {
+    "senses": [
+      {
+        "id": "wordtrail:essential:0",
+        "pos": "adj.",
+        "en": "Completely necessary for something.",
+        "zh": "必不可少的；至关重要的。",
+        "exampleEn": "Regular practice is essential for lasting improvement.",
+        "exampleZh": "规律练习对于持续进步至关重要。",
+        "imageQuery": "student studying notebook",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "student studying notebook"
+  },
+  "collaboration": {
+    "senses": [
+      {
+        "id": "wordtrail:collaboration:0",
+        "pos": "n.",
+        "en": "The process of working together toward a shared goal.",
+        "zh": "合作；为共同目标一起工作的过程。",
+        "exampleEn": "The project succeeded through close collaboration between teams.",
+        "exampleZh": "项目通过团队之间的密切合作取得了成功。",
+        "imageQuery": "team meeting collaboration",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "team meeting collaboration"
+  },
+  "habitat": {
+    "senses": [
+      {
+        "id": "wordtrail:habitat:0",
+        "pos": "n.",
+        "en": "The natural place where a plant or animal lives.",
+        "zh": "栖息地；动植物自然生活的环境。",
+        "exampleEn": "Protecting the wetland helps preserve the birds' habitat.",
+        "exampleZh": "保护湿地有助于保留鸟类的栖息地。",
+        "imageQuery": "wetland birds habitat",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "wetland birds habitat"
+  },
+  "immersive": {
+    "senses": [
+      {
+        "id": "wordtrail:immersive:0",
+        "pos": "adj.",
+        "en": "Making someone feel deeply involved in an experience.",
+        "zh": "沉浸式的；使人深入投入某种体验的。",
+        "exampleEn": "The museum created an immersive exhibition about ancient cities.",
+        "exampleZh": "博物馆打造了一个关于古代城市的沉浸式展览。",
+        "imageQuery": "museum immersive exhibition",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "museum immersive exhibition"
+  },
+  "thorny": {
+    "senses": [
+      {
+        "id": "wordtrail:thorny:0",
+        "pos": "adj.",
+        "en": "Difficult and complicated to deal with.",
+        "zh": "棘手的；难以处理且复杂的。",
+        "exampleEn": "The committee must address several thorny questions.",
+        "exampleZh": "委员会必须处理几个棘手的问题。",
+        "imageQuery": "committee meeting discussion",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "committee meeting discussion"
+  },
+  "backdrop": {
+    "senses": [
+      {
+        "id": "wordtrail:backdrop:0",
+        "pos": "n.",
+        "en": "The setting or background against which something happens.",
+        "zh": "背景；事件发生的环境。",
+        "exampleEn": "The debate took place against a backdrop of economic uncertainty.",
+        "exampleZh": "这场辩论是在经济不确定的背景下展开的。",
+        "imageQuery": "public debate meeting",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "public debate meeting"
+  },
+  "converge": {
+    "senses": [
+      {
+        "id": "wordtrail:converge:0",
+        "pos": "v.",
+        "en": "To move toward the same point or become more similar.",
+        "zh": "汇聚；趋于一致。",
+        "exampleEn": "The two teams' ideas began to converge after the discussion.",
+        "exampleZh": "讨论后，两个团队的想法开始趋于一致。",
+        "imageQuery": "team discussion table",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "team discussion table"
+  },
+  "ethos": {
+    "senses": [
+      {
+        "id": "wordtrail:ethos:0",
+        "pos": "n.",
+        "en": "The shared values and spirit of a group.",
+        "zh": "精神特质；群体共同的价值观与理念。",
+        "exampleEn": "Fair play is central to the ethos of the sports club.",
+        "exampleZh": "公平竞争是这家体育俱乐部理念的核心。",
+        "imageQuery": "sports team handshake",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "sports team handshake"
+  },
+  "staff": {
+    "senses": [
+      {
+        "id": "wordtrail:staff:0",
+        "pos": "v.",
+        "en": "To provide an organization with workers.",
+        "zh": "为某个组织配备工作人员。",
+        "exampleEn": "Volunteers staff the information desk during the event.",
+        "exampleZh": "活动期间，志愿者在咨询台工作。",
+        "imageQuery": "volunteer information desk",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "volunteer information desk"
+  },
+  "blunder": {
+    "senses": [
+      {
+        "id": "wordtrail:blunder:0",
+        "pos": "n.",
+        "en": "A serious mistake caused by carelessness or poor judgment.",
+        "zh": "大错；因粗心或判断不当造成的错误。",
+        "exampleEn": "Ignoring the warning was a costly blunder.",
+        "exampleZh": "忽视警告是一个代价高昂的错误。",
+        "imageQuery": "warning sign",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "warning sign"
+  },
+  "inherent": {
+    "senses": [
+      {
+        "id": "wordtrail:inherent:0",
+        "pos": "adj.",
+        "en": "Existing as a basic part of something.",
+        "zh": "固有的；内在的。",
+        "exampleEn": "Every investment carries an inherent risk.",
+        "exampleZh": "每项投资都带有内在风险。",
+        "imageQuery": "finance documents chart",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "finance documents chart"
+  },
+  "wildfire": {
+    "senses": [
+      {
+        "id": "wordtrail:wildfire:0",
+        "pos": "n.",
+        "en": "A large uncontrolled fire in a natural area.",
+        "zh": "野火；自然区域内失控的大火。",
+        "exampleEn": "The wildfire spread quickly through the dry forest.",
+        "exampleZh": "野火在干燥的森林中迅速蔓延。",
+        "imageQuery": "forest wildfire",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "forest wildfire"
+  },
+  "landscape": {
+    "senses": [
+      {
+        "id": "wordtrail:landscape:0",
+        "pos": "n.",
+        "en": "The visible natural features of an area.",
+        "zh": "地貌；一个地区可见的自然景观。",
+        "exampleEn": "The river has shaped the landscape over many years.",
+        "exampleZh": "多年来，这条河流塑造了当地的地貌。",
+        "imageQuery": "river valley landscape",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "river valley landscape"
+  },
+  "justify": {
+    "senses": [
+      {
+        "id": "wordtrail:justify:0",
+        "pos": "v.",
+        "en": "To give a good reason for an action or belief.",
+        "zh": "证明有道理；为行为或观点提供合理理由。",
+        "exampleEn": "The evidence does not justify such a strong conclusion.",
+        "exampleZh": "这些证据不足以支持如此强烈的结论。",
+        "imageQuery": "research report desk",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "research report desk"
+  },
+  "evaporate": {
+    "senses": [
+      {
+        "id": "wordtrail:evaporate:0",
+        "pos": "v.",
+        "en": "To disappear gradually, or turn from liquid into gas.",
+        "zh": "逐渐消失；或由液体变成气体。",
+        "exampleEn": "Their hopes began to evaporate as costs increased.",
+        "exampleZh": "随着成本增加，他们的希望开始逐渐消失。",
+        "imageQuery": "empty business office",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "empty business office"
+  },
+  "hasten": {
+    "senses": [
+      {
+        "id": "wordtrail:hasten:0",
+        "pos": "v.",
+        "en": "To make an event happen sooner.",
+        "zh": "加速；促使事情更早发生。",
+        "exampleEn": "The new policy may hasten the transition to clean energy.",
+        "exampleZh": "新政策可能加速向清洁能源的转型。",
+        "imageQuery": "solar panels wind turbines",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "solar panels wind turbines"
+  },
+  "drought": {
+    "senses": [
+      {
+        "id": "wordtrail:drought:0",
+        "pos": "n.",
+        "en": "A long period with little or no rain.",
+        "zh": "干旱；长时间缺少降雨的时期。",
+        "exampleEn": "The drought reduced the region's food production.",
+        "exampleZh": "干旱使该地区的粮食产量下降。",
+        "imageQuery": "dry farmland drought",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "dry farmland drought"
+  },
+  "attuned": {
+    "senses": [
+      {
+        "id": "wordtrail:attuned:0",
+        "pos": "adj.",
+        "en": "Sensitive to or aware of something.",
+        "zh": "敏锐的；对某事有所意识并能作出响应的。",
+        "exampleEn": "Good teachers are attuned to their students' needs.",
+        "exampleZh": "好的教师对学生的需求很敏锐。",
+        "imageQuery": "teacher classroom student",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "teacher classroom student"
+  },
+  "identify": {
+    "senses": [
+      {
+        "id": "wordtrail:identify:0",
+        "pos": "v.",
+        "en": "To recognize or establish what something is.",
+        "zh": "识别；确定某物是什么。",
+        "exampleEn": "The study aims to identify the causes of the problem.",
+        "exampleZh": "这项研究旨在找出问题的原因。",
+        "imageQuery": "scientist research laboratory",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "scientist research laboratory"
+  },
+  "recruit": {
+    "senses": [
+      {
+        "id": "wordtrail:recruit:0",
+        "pos": "v.",
+        "en": "To find and employ new people.",
+        "zh": "招募；聘用新的人员。",
+        "exampleEn": "The company plans to recruit more engineers this year.",
+        "exampleZh": "公司计划今年招聘更多工程师。",
+        "imageQuery": "job interview office",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "job interview office"
+  },
+  "principally": {
+    "senses": [
+      {
+        "id": "wordtrail:principally:0",
+        "pos": "adv.",
+        "en": "Mainly; more than anything else.",
+        "zh": "主要地；以某种因素为主。",
+        "exampleEn": "The program is funded principally by local donations.",
+        "exampleZh": "这个项目主要由当地捐款资助。",
+        "imageQuery": "community donation volunteers",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "community donation volunteers"
+  },
+  "inhabit": {
+    "senses": [
+      {
+        "id": "wordtrail:inhabit:0",
+        "pos": "v.",
+        "en": "To live in or occupy a place.",
+        "zh": "居住于；占据某个地方。",
+        "exampleEn": "Several rare species inhabit this forest.",
+        "exampleZh": "几种珍稀物种栖息在这片森林中。",
+        "imageQuery": "forest wildlife",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "forest wildlife"
+  },
+  "underlying": {
+    "senses": [
+      {
+        "id": "wordtrail:underlying:0",
+        "pos": "adj.",
+        "en": "Existing beneath the surface and helping explain something.",
+        "zh": "根本的；潜在的；表面现象背后的。",
+        "exampleEn": "The report explores the underlying causes of inequality.",
+        "exampleZh": "报告探讨了不平等背后的根本原因。",
+        "imageQuery": "social research documents",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "social research documents"
+  },
+  "reskilling": {
+    "senses": [
+      {
+        "id": "wordtrail:reskilling:0",
+        "pos": "n.",
+        "en": "Learning new skills so that one can do a different kind of work.",
+        "zh": "再培训；为从事不同工作而学习新技能。",
+        "exampleEn": "Reskilling can help workers adapt to technological change.",
+        "exampleZh": "再培训可以帮助劳动者适应技术变化。",
+        "imageQuery": "adult computer training",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "adult computer training"
+  },
+  "requirement": {
+    "senses": [
+      {
+        "id": "wordtrail:requirement:0",
+        "pos": "n.",
+        "en": "Something that is needed or must be done.",
+        "zh": "要求；必须满足的必要条件。",
+        "exampleEn": "Work experience is a requirement for this position.",
+        "exampleZh": "工作经验是这个岗位的必要条件。",
+        "imageQuery": "job application documents",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "job application documents"
+  },
+  "forecast": {
+    "senses": [
+      {
+        "id": "wordtrail:forecast:0",
+        "pos": "v.",
+        "en": "To predict what is likely to happen.",
+        "zh": "预测；预报可能发生的事情。",
+        "exampleEn": "Analysts forecast a rise in demand next year.",
+        "exampleZh": "分析人士预测明年需求会增长。",
+        "imageQuery": "business forecast chart",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "business forecast chart"
+  },
+  "dominate": {
+    "senses": [
+      {
+        "id": "wordtrail:dominate:0",
+        "pos": "v.",
+        "en": "To have the greatest power or influence in a situation.",
+        "zh": "主导；占据支配或统治地位。",
+        "exampleEn": "A few large firms dominate the market.",
+        "exampleZh": "少数几家大型企业主导着市场。",
+        "imageQuery": "city business buildings",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "city business buildings"
+  },
+  "roam": {
+    "senses": [
+      {
+        "id": "wordtrail:roam:0",
+        "pos": "v.",
+        "en": "To move around freely without a fixed destination.",
+        "zh": "漫步；没有固定目的地地自由走动。",
+        "exampleEn": "Visitors can roam through the gardens at their own pace.",
+        "exampleZh": "游客可以按自己的节奏在花园里漫步。",
+        "imageQuery": "people walking garden",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking garden"
+  },
+  "dismiss": {
+    "senses": [
+      {
+        "id": "wordtrail:dismiss:0",
+        "pos": "v.",
+        "en": "To refuse to consider an idea as important or reasonable.",
+        "zh": "不屑一顾；拒绝认真考虑某个观点。",
+        "exampleEn": "We should not dismiss the concerns of local residents.",
+        "exampleZh": "我们不应对当地居民的担忧不屑一顾。",
+        "imageQuery": "community residents meeting",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "community residents meeting"
+  },
+  "retirement": {
+    "senses": [
+      {
+        "id": "wordtrail:retirement:0",
+        "pos": "n.",
+        "en": "The time or state of stopping regular work, usually because of age.",
+        "zh": "退休；通常因年龄而停止日常工作的阶段。",
+        "exampleEn": "She plans to travel after retirement.",
+        "exampleZh": "她计划退休后去旅行。",
+        "imageQuery": "older person travel",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "older person travel"
+  },
+  "workforce": {
+    "senses": [
+      {
+        "id": "wordtrail:workforce:0",
+        "pos": "n.",
+        "en": "All the people available for or employed in work.",
+        "zh": "劳动力；可工作或受雇工作的全部人员。",
+        "exampleEn": "The company is investing in training its workforce.",
+        "exampleZh": "公司正在投入资金培训员工队伍。",
+        "imageQuery": "workers factory training",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "workers factory training"
+  },
+  "encounter": {
+    "senses": [
+      {
+        "id": "wordtrail:encounter:0",
+        "pos": "v.",
+        "en": "To meet someone or experience a difficulty unexpectedly.",
+        "zh": "遇到；意外碰到某人或困难。",
+        "exampleEn": "New users may encounter problems with the complex menu.",
+        "exampleZh": "新用户可能会在复杂菜单上遇到问题。",
+        "imageQuery": "person computer screen",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "person computer screen"
+  },
+  "intuitive": {
+    "senses": [
+      {
+        "id": "wordtrail:intuitive:0",
+        "pos": "adj.",
+        "en": "Easy to understand or use without much instruction.",
+        "zh": "直观的；无需大量说明就容易理解或使用的。",
+        "exampleEn": "An intuitive design makes the app easier to use.",
+        "exampleZh": "直观的设计让这个应用更容易使用。",
+        "imageQuery": "mobile app interface",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "mobile app interface"
+  },
+  "quest": {
+    "senses": [
+      {
+        "id": "wordtrail:quest:0",
+        "pos": "n.",
+        "en": "A long or determined search for something.",
+        "zh": "追求；对某物持续或坚定的探寻。",
+        "exampleEn": "The quest for cleaner energy requires cooperation.",
+        "exampleZh": "寻求更清洁的能源需要合作。",
+        "imageQuery": "solar energy research",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "solar energy research"
+  },
+  "greenwash": {
+    "senses": [
+      {
+        "id": "wordtrail:greenwash:0",
+        "pos": "n.",
+        "en": "A misleading appearance of environmental responsibility.",
+        "zh": "环保幌子；虚假的环保形象。",
+        "exampleEn": "The report questions whether the campaign is merely greenwash.",
+        "exampleZh": "报告质疑这场宣传是否只是环保幌子。",
+        "imageQuery": "factory green environment",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "factory green environment"
+  },
+  "launch": {
+    "senses": [
+      {
+        "id": "wordtrail:launch:0",
+        "pos": "v.",
+        "en": "To introduce a product or service to the market.",
+        "zh": "推出；将产品或服务投放市场。",
+        "exampleEn": "The company will launch a new learning platform next month.",
+        "exampleZh": "公司将在下个月推出新的学习平台。",
+        "imageQuery": "product launch event",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "product launch event"
+  },
+  "maintenance": {
+    "senses": [
+      {
+        "id": "wordtrail:maintenance:0",
+        "pos": "n.",
+        "en": "Work done to keep something in good condition.",
+        "zh": "维护；保养；使某物保持良好状态的工作。",
+        "exampleEn": "Regular maintenance keeps the equipment working safely.",
+        "exampleZh": "定期维护能确保设备安全运行。",
+        "imageQuery": "technician machine maintenance",
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "technician machine maintenance"
+  },
+  "lead": {
+    "senses": [
+      {
+        "id": "wordtrail:lead:0",
+        "pos": "v.",
+        "en": "To direct a group or guide an activity.",
+        "zh": "领导；指挥；引导某项活动。",
+        "exampleEn": "She will lead the team through the difficult project.",
+        "exampleZh": "她将带领团队完成这个困难的项目。",
+        "imageQuery": "team leader meeting",
+        "source": "WordTrail original",
+        "phonetic": "/liːd/"
+      },
+      {
+        "id": "wordtrail:lead:1",
+        "pos": "n.",
+        "en": "A heavy soft grey metal, pronounced differently from the verb.",
+        "zh": "铅；一种柔软的灰色重金属，读音与动词不同。",
+        "exampleEn": "Old pipes sometimes contain lead.",
+        "exampleZh": "旧管道有时含铅。",
+        "imageQuery": "lead metal cube",
+        "source": "WordTrail original",
+        "phonetic": "/led/"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "team leader meeting"
+  },
+  "used to do sth.": {
+    "senses": [
+      {
+        "id": "wordtrail:used to do sth.:0",
+        "pos": "phrase",
+        "en": "To describe a past habit or state that is no longer true.",
+        "zh": "曾经做某事；表示过去的习惯或状态。",
+        "exampleEn": "She used to walk to work before she moved.",
+        "exampleZh": "搬家以前，她曾经步行上班。",
+        "surfaceForms": [
+          "used to walk"
+        ],
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking city"
+  },
+  "cope with": {
+    "senses": [
+      {
+        "id": "wordtrail:cope with:0",
+        "pos": "phrase",
+        "en": "To deal successfully with a difficult situation.",
+        "zh": "应对；有效处理困难局面。",
+        "exampleEn": "The city must cope with increasingly hot summers.",
+        "exampleZh": "这座城市必须应对越来越炎热的夏天。",
+        "surfaceForms": [
+          "cope with"
+        ],
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking city"
+  },
+  "account for": {
+    "senses": [
+      {
+        "id": "wordtrail:account for:0",
+        "pos": "phrase",
+        "en": "To make up a particular share of a total.",
+        "zh": "占；构成总量中的某个比例。",
+        "exampleEn": "Rail journeys account for a third of all trips.",
+        "exampleZh": "铁路出行占全部出行的三分之一。",
+        "surfaceForms": [
+          "account for"
+        ],
+        "source": "WordTrail original"
+      },
+      {
+        "id": "wordtrail:account for:1",
+        "pos": "phrase",
+        "en": "To explain the reason for something.",
+        "zh": "解释；说明某事的原因。",
+        "exampleEn": "Several factors account for the change in demand.",
+        "exampleZh": "几个因素解释了需求变化的原因。",
+        "surfaceForms": [
+          "account for"
+        ],
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking city"
+  },
+  "back away from sth.": {
+    "senses": [
+      {
+        "id": "wordtrail:back away from sth.:0",
+        "pos": "phrase",
+        "en": "To move away from something or avoid involvement in it.",
+        "zh": "从……后退；避免参与某事。",
+        "exampleEn": "Some investors back away from risky projects.",
+        "exampleZh": "一些投资者对风险项目避而远之。",
+        "surfaceForms": [
+          "back away from"
+        ],
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking city"
+  },
+  "cut corners": {
+    "senses": [
+      {
+        "id": "wordtrail:cut corners:0",
+        "pos": "phrase",
+        "en": "To take a shorter route instead of following the full path.",
+        "zh": "抄近路；不沿完整路线行走。",
+        "exampleEn": "Visitors cut corners by walking across the lawn.",
+        "exampleZh": "游客穿过草坪来抄近路。",
+        "surfaceForms": [
+          "cut corners"
+        ],
+        "source": "WordTrail original"
+      },
+      {
+        "id": "wordtrail:cut corners:1",
+        "pos": "phrase",
+        "en": "To leave out necessary steps to save time or money.",
+        "zh": "偷工减料；为节省时间或金钱省略必要步骤。",
+        "exampleEn": "Builders should not cut corners on safety.",
+        "exampleZh": "建筑施工人员不应在安全问题上偷工减料。",
+        "surfaceForms": [
+          "cut corners"
+        ],
+        "source": "WordTrail original"
+      }
+    ],
+    "source": "WordTrail original",
+    "imageQuery": "people walking city"
+  }
+}

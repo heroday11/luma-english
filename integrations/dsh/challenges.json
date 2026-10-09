@@ -1,0 +1,18 @@
+[
+  {
+    "id":"reading-evidence-1","stage":"baseline","skill":"reading-inference",
+    "title":"独立阅读：证据是否足够",
+    "passage":"A museum extended its opening hours on Fridays. More visitors arrived after six, but total weekly attendance stayed the same. The director said that the new hours gave visitors more flexibility, although they had not yet attracted a larger audience.",
+    "question":"Which conclusion is supported by the passage?",
+    "options":["The museum gained more visitors overall.","Some visits may have shifted to a later time.","Visitors disliked the new opening hours."],
+    "answer":1,"explanation":"晚间到访增加，但每周总人数不变，因此可能只是到访时间发生变化。不能据此说总客流增加。"
+  },
+  {
+    "id":"reading-evidence-2","stage":"transfer","skill":"reading-inference",
+    "title":"隔日复测：在新材料中判断证据",
+    "passage":"An online shop introduced free delivery on small orders. The number of orders rose, while the average value of each order fell. At the end of the month, its total sales revenue was almost unchanged. The manager planned to study delivery costs before deciding whether the policy was profitable.",
+    "question":"What can we conclude from these results?",
+    "options":["More orders necessarily made the shop more profitable.","The policy caused total sales revenue to fall sharply.","More information is needed to determine the effect on profit."],
+    "answer":2,"explanation":"订单数上升不等于利润上升。总销售额几乎没变，还需要考虑配送成本。"
+  }
+]

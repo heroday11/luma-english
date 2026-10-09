@@ -1,0 +1,5 @@
+- insert:
+    - id: wordtrail-content
+      name: ./content.mjs
+    - id: wordtrail-coach
+      name: ./coach.mjs

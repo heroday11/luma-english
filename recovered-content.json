@@ -1,0 +1,5065 @@
+{
+  "schemaVersion": 1,
+  "sourceFile": "exam_vocab.json",
+  "sourceSha256": "70a82e90707a8cec74ab4acc942a620763cbad63479688235beb04bdc258e763",
+  "verifiedPages": [
+    2,
+    7,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15,
+    20,
+    24,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "corrections": [
+    {
+      "index": 412,
+      "originalIndex": 412,
+      "originalWord": "rose-tint",
+      "originalYear": "2014",
+      "originalText": "Text 2",
+      "originalPage": 9,
+      "word": "rose-tint",
+      "pos": "v",
+      "meanings": [
+        "染了玫瑰色，精饰，美化"
+      ],
+      "year": "2014",
+      "text": "Text 2",
+      "page": 9,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1601,
+      "originalIndex": 1601,
+      "originalWord": "unsafe",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "unsafe",
+      "pos": "adj",
+      "meanings": [
+        "不安全的；危险的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1602,
+      "originalIndex": 1602,
+      "originalWord": "aging",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "aging",
+      "pos": "adj",
+      "meanings": [
+        "变老的；老朽的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1603,
+      "originalIndex": 1603,
+      "originalWord": "convince",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "convince",
+      "pos": "v",
+      "meanings": [
+        "说服；使相信"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1604,
+      "originalIndex": 1604,
+      "originalWord": "turn over",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "turn over",
+      "pos": "phrase",
+      "meanings": [
+        "移交（控制权，责任）"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1605,
+      "originalIndex": 1605,
+      "originalWord": "complete",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "complete",
+      "pos": "adj",
+      "meanings": [
+        "完全的；彻底的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1606,
+      "originalIndex": 1606,
+      "originalWord": "force",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "force",
+      "pos": "v",
+      "meanings": [
+        "迫使；强迫"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1607,
+      "originalIndex": 1607,
+      "originalWord": "former",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "former",
+      "pos": "adj",
+      "meanings": [
+        "前任的；曾经当过……的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1608,
+      "originalIndex": 1608,
+      "originalWord": "manager",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "manager",
+      "pos": "n",
+      "meanings": [
+        "经理；主管"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1609,
+      "originalIndex": 1609,
+      "originalWord": "association",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "association",
+      "pos": "n",
+      "meanings": [
+        "协会；联盟"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1610,
+      "originalIndex": 1610,
+      "originalWord": "physician",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "physician",
+      "pos": "n",
+      "meanings": [
+        "医生；（尤指）内科医生"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1611,
+      "originalIndex": 1611,
+      "originalWord": "substantial",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "substantial",
+      "pos": "adj",
+      "meanings": [
+        "实质上存在的；实质性的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1612,
+      "originalIndex": 1612,
+      "originalWord": "impairment",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "impairment",
+      "pos": "n",
+      "meanings": [
+        "障碍；缺陷"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1613,
+      "originalIndex": 1613,
+      "originalWord": "imply",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "imply",
+      "pos": "v",
+      "meanings": [
+        "暗示……为必然结果"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1614,
+      "originalIndex": 1614,
+      "originalWord": "threat",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "threat",
+      "pos": "n",
+      "meanings": [
+        "构成威胁的人(或事物)"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1615,
+      "originalIndex": 1615,
+      "originalWord": "discontinue",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "discontinue",
+      "pos": "v",
+      "meanings": [
+        "停止；终止"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1616,
+      "originalIndex": 1616,
+      "originalWord": "privilege",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "privilege",
+      "pos": "n",
+      "meanings": [
+        "特权；特殊待遇"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1617,
+      "originalIndex": 1617,
+      "originalWord": "ignore",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "ignore",
+      "pos": "v",
+      "meanings": [
+        "忽视；对……不予理会"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1618,
+      "originalIndex": 1618,
+      "originalWord": "desirable",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "desirable",
+      "pos": "adj",
+      "meanings": [
+        "值得去做的；可取的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1619,
+      "originalIndex": 1619,
+      "originalWord": "ethical",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "ethical",
+      "pos": "adj",
+      "meanings": [
+        "合乎道德的；合乎道德规范的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1620,
+      "originalIndex": 1620,
+      "originalWord": "notify",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "notify",
+      "pos": "v",
+      "meanings": [
+        "申报；报告"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1621,
+      "originalIndex": 1621,
+      "originalWord": "motor",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "motor",
+      "pos": "adj",
+      "meanings": [
+        "有引擎的；机动的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1622,
+      "originalIndex": 1622,
+      "originalWord": "require",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "require",
+      "pos": "v",
+      "meanings": [
+        "规定；要求",
+        "需要；有赖于"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1623,
+      "originalIndex": 1623,
+      "originalWord": "mandate",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "mandate",
+      "pos": "v",
+      "meanings": [
+        "命令；强制要求"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1624,
+      "originalIndex": 1624,
+      "originalWord": "breach",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "breach",
+      "pos": "n",
+      "meanings": [
+        "违背；违反"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1625,
+      "originalIndex": 1625,
+      "originalWord": "confidentiality",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "confidentiality",
+      "pos": "n",
+      "meanings": [
+        "保密性；机密性"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1626,
+      "originalIndex": 1626,
+      "originalWord": "liability",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "liability",
+      "pos": "n",
+      "meanings": [
+        "责任；义务"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1627,
+      "originalIndex": 1627,
+      "originalWord": "penalty",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "penalty",
+      "pos": "n",
+      "meanings": [
+        "惩罚；刑罚"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1628,
+      "originalIndex": 1628,
+      "originalWord": "accordance",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "accordance",
+      "pos": "n",
+      "meanings": [
+        "一致；和谐"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1629,
+      "originalIndex": 1629,
+      "originalWord": "counsel",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "counsel",
+      "pos": "v",
+      "meanings": [
+        "建议；劝告"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1630,
+      "originalIndex": 1630,
+      "originalWord": "address",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "address",
+      "pos": "v",
+      "meanings": [
+        "考虑处理；解决"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1631,
+      "originalIndex": 1631,
+      "originalWord": "piecemeal",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "piecemeal",
+      "pos": "ad",
+      "meanings": [
+        "零散地；不成体系地"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1632,
+      "originalIndex": 1632,
+      "originalWord": "profession",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "profession",
+      "pos": "n",
+      "meanings": [
+        "职业人士；专业人员"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1633,
+      "originalIndex": 1633,
+      "originalWord": "gerontologist",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "gerontologist",
+      "pos": "n",
+      "meanings": [
+        "老年学专家"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1634,
+      "originalIndex": 1634,
+      "originalWord": "administration",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "administration",
+      "pos": "n",
+      "meanings": [
+        "管理部门"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1635,
+      "originalIndex": 1635,
+      "originalWord": "official",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "official",
+      "pos": "n",
+      "meanings": [
+        "要员；官员"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1636,
+      "originalIndex": 1636,
+      "originalWord": "automotive",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "automotive",
+      "pos": "adj",
+      "meanings": [
+        "汽车的；机动车的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1637,
+      "originalIndex": 1637,
+      "originalWord": "engineer",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "engineer",
+      "pos": "n",
+      "meanings": [
+        "工程师；设计师"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1638,
+      "originalIndex": 1638,
+      "originalWord": "national",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "national",
+      "pos": "adj",
+      "meanings": [
+        "全国的；全国性的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1639,
+      "originalIndex": 1639,
+      "originalWord": "institute",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "institute",
+      "pos": "n",
+      "meanings": [
+        "研究所；协会"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1640,
+      "originalIndex": 1640,
+      "originalWord": "work",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "work",
+      "pos": "v",
+      "meanings": [
+        "产生预期效果；有效"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1641,
+      "originalIndex": 1641,
+      "originalWord": "report",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "report",
+      "pos": "v",
+      "meanings": [
+        "报到"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1642,
+      "originalIndex": 1642,
+      "originalWord": "license",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "license",
+      "pos": "n",
+      "meanings": [
+        "（官方）许可证，执照"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1643,
+      "originalIndex": 1643,
+      "originalWord": "renewal",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "renewal",
+      "pos": "n",
+      "meanings": [
+        "展期；有效期延长"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1644,
+      "originalIndex": 1644,
+      "originalWord": "mandatory",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "mandatory",
+      "pos": "adj",
+      "meanings": [
+        "强制的；必须遵守的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1645,
+      "originalIndex": 1645,
+      "originalWord": "be associated with",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "be associated with",
+      "pos": "phrase",
+      "meanings": [
+        "与……有关联"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1646,
+      "originalIndex": 1646,
+      "originalWord": "reduction",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "reduction",
+      "pos": "n",
+      "meanings": [
+        "减少；降低"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1647,
+      "originalIndex": 1647,
+      "originalWord": "fatal",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "fatal",
+      "pos": "adj",
+      "meanings": [
+        "致命的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1648,
+      "originalIndex": 1648,
+      "originalWord": "crash",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "crash",
+      "pos": "n",
+      "meanings": [
+        "撞车；碰撞"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1649,
+      "originalIndex": 1649,
+      "originalWord": "involve",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "involve",
+      "pos": "v",
+      "meanings": [
+        "包括；涉及"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1650,
+      "originalIndex": 1650,
+      "originalWord": "pass",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "pass",
+      "pos": "v",
+      "meanings": [
+        "通过（考试）"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1651,
+      "originalIndex": 1651,
+      "originalWord": "vision",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "vision",
+      "pos": "n",
+      "meanings": [
+        "视力；视觉"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1652,
+      "originalIndex": 1652,
+      "originalWord": "produce",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "produce",
+      "pos": "v",
+      "meanings": [
+        "引起；导致"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1653,
+      "originalIndex": 1653,
+      "originalWord": "combine",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "combine",
+      "pos": "v",
+      "meanings": [
+        "同时做；兼做"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1654,
+      "originalIndex": 1654,
+      "originalWord": "afford",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "afford",
+      "pos": "v",
+      "meanings": [
+        "负担得起；付得起"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1655,
+      "originalIndex": 1655,
+      "originalWord": "self-driving",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "self-driving",
+      "pos": "adj",
+      "meanings": [
+        "自动驾驶的"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1656,
+      "originalIndex": 1656,
+      "originalWord": "solve",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "solve",
+      "pos": "v",
+      "meanings": [
+        "解决；处理"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1657,
+      "originalIndex": 1657,
+      "originalWord": "pose",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "pose",
+      "pos": "v",
+      "meanings": [
+        "造成；引起"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1658,
+      "originalIndex": 1658,
+      "originalWord": "algorithm",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "algorithm",
+      "pos": "n",
+      "meanings": [
+        "（尤指电脑程序中的）算法；运算法则"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1659,
+      "originalIndex": 1659,
+      "originalWord": "comfortably",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "originalPage": 31,
+      "word": "comfortably",
+      "pos": "ad",
+      "meanings": [
+        "舒适地；轻松地"
+      ],
+      "year": "2024",
+      "text": "Text 3",
+      "page": 31,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "PDF 第30页底部 Text 3 标题覆盖第31页；第32页起为 Text 4。"
+    },
+    {
+      "index": 1742,
+      "originalIndex": 1742,
+      "originalWord": "prompt to do",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "originalPage": 33,
+      "word": "prompt sb. to do sth.",
+      "pos": "phrase",
+      "meanings": [
+        "提示某人做某事"
+      ],
+      "year": "2025",
+      "text": "Text 1",
+      "page": 33,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1744,
+      "originalIndex": 1744,
+      "originalWord": "have less to do",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "originalPage": 33,
+      "word": "have less to do with",
+      "pos": "phrase",
+      "meanings": [
+        "与……关联更小"
+      ],
+      "year": "2025",
+      "text": "Text 1",
+      "page": 33,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1758,
+      "originalIndex": 1758,
+      "originalWord": "it easier to do",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "originalPage": 33,
+      "word": "make it easier to do sth.",
+      "pos": "phrase",
+      "meanings": [
+        "使做某事变得更容易"
+      ],
+      "year": "2025",
+      "text": "Text 1",
+      "page": 33,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1771,
+      "originalIndex": 1771,
+      "originalWord": "the national health",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "originalPage": 34,
+      "word": "the National Health Service (NHS)",
+      "pos": "phrase",
+      "meanings": [
+        "英国国民医疗服务体系"
+      ],
+      "year": "2025",
+      "text": "Text 2",
+      "page": 34,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1787,
+      "originalIndex": 1787,
+      "originalWord": "the burden",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "originalPage": 34,
+      "word": "lighten the burden of",
+      "pos": "phrase",
+      "meanings": [
+        "减轻……的负担"
+      ],
+      "year": "2025",
+      "text": "Text 2",
+      "page": 34,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1826,
+      "originalIndex": 1826,
+      "originalWord": "keep under great",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "originalPage": 35,
+      "word": "keep sth. under great pressure",
+      "pos": "phrase",
+      "meanings": [
+        "使……承受巨大压力"
+      ],
+      "year": "2025",
+      "text": "Text 3",
+      "page": 35,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1845,
+      "originalIndex": 1845,
+      "originalWord": "be bolstered",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "originalPage": 36,
+      "word": "be bolstered with",
+      "pos": "phrase",
+      "meanings": [
+        "配备有……"
+      ],
+      "year": "2025",
+      "text": "Text 3",
+      "page": 36,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1931,
+      "originalIndex": 1931,
+      "originalWord": "to mind",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "originalPage": 37,
+      "word": "spring to mind",
+      "pos": "phrase",
+      "meanings": [
+        "立即被想到"
+      ],
+      "year": "2026",
+      "text": "Text 1",
+      "page": 37,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1936,
+      "originalIndex": 1936,
+      "originalWord": "and down",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "originalPage": 37,
+      "word": "up and down",
+      "pos": "phrase",
+      "meanings": [
+        "到处；四面八方"
+      ],
+      "year": "2026",
+      "text": "Text 1",
+      "page": 37,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1980,
+      "originalIndex": 1980,
+      "originalWord": "the beans",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "originalPage": 39,
+      "word": "spill the beans",
+      "pos": "phrase",
+      "meanings": [
+        "泄露秘密；说漏嘴"
+      ],
+      "year": "2026",
+      "text": "Text 2",
+      "page": 39,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1982,
+      "originalIndex": 1982,
+      "originalWord": "terms of",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "originalPage": 39,
+      "word": "in terms of",
+      "pos": "phrase",
+      "meanings": [
+        "在……方面；从……角度来看"
+      ],
+      "year": "2026",
+      "text": "Text 3",
+      "page": 39,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 1993,
+      "originalIndex": 1993,
+      "originalWord": "the meantime",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "originalPage": 39,
+      "word": "in the meantime",
+      "pos": "phrase",
+      "meanings": [
+        "在此期间；与此同时"
+      ],
+      "year": "2026",
+      "text": "Text 3",
+      "page": 39,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 2028,
+      "originalIndex": 2028,
+      "originalWord": "festgoer",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "originalPage": 40,
+      "word": "festgoer",
+      "pos": "n",
+      "meanings": [
+        "节庆活动参与者"
+      ],
+      "year": "2026",
+      "text": "Text 4",
+      "page": 40,
+      "reviewRequired": false,
+      "verified": true,
+      "note": "已逐行核对 PDF 图像，恢复完整词组或词性；保留原始记录索引。"
+    },
+    {
+      "index": 50,
+      "originalWord": "shrewd",
+      "originalYear": "2010",
+      "originalText": "Text 3",
+      "page": 2,
+      "verified": true,
+      "meanings": [
+        "精明的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 340,
+      "originalWord": "stimuli",
+      "originalYear": "2013",
+      "originalText": "Text 3",
+      "page": 7,
+      "verified": true,
+      "meanings": [
+        "刺激（stimulus的复数）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 408,
+      "originalWord": "illusory",
+      "originalYear": "2014",
+      "originalText": "Text 2",
+      "page": 8,
+      "verified": true,
+      "meanings": [
+        "错觉的；虚假的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 414,
+      "originalWord": "defensive",
+      "originalYear": "2014",
+      "originalText": "Text 2",
+      "page": 9,
+      "verified": true,
+      "meanings": [
+        "自卫的；戒备的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 591,
+      "originalWord": "designate",
+      "originalYear": "2016",
+      "originalText": "Text 2",
+      "page": 12,
+      "verified": true,
+      "meanings": [
+        "指定，认定（designatesthassth）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 650,
+      "originalWord": "prioritize",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "meanings": [
+        "按优先顺序列出；确定（事项、 问题等）的优先顺序；优先考虑 [处理]"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "v"
+    },
+    {
+      "index": 672,
+      "originalWord": "dual",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 13,
+      "verified": true,
+      "meanings": [
+        "双重的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 674,
+      "originalWord": "intimidating",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 13,
+      "verified": true,
+      "meanings": [
+        "令人胆怯的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 676,
+      "originalWord": "grassroots",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "[pl.]基层民众，草根"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "n"
+    },
+    {
+      "index": 678,
+      "originalWord": "successive",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "连续的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 679,
+      "originalWord": "fit",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "健壮的，强健的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 682,
+      "originalWord": "wordy",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "冗长的，啰嗦的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 684,
+      "originalWord": "worthy",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "有价值的，值得尊敬的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 686,
+      "originalWord": "blank",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "没表情的，不感兴趣的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 687,
+      "originalWord": "maximal",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "最大的，最高的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 688,
+      "originalWord": "unresponsive",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "反应迟钝的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 690,
+      "originalWord": "disconcerting",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "使人不安的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 692,
+      "originalWord": "distressed",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "痛苦的，悲伤的，苦恼的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 696,
+      "originalWord": "present",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "在场的，存在的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 698,
+      "originalWord": "sensitive",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "体恤的，善解人意的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 699,
+      "originalWord": "verbal",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "文字的，言语的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 702,
+      "originalWord": "fantasized",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "想象的，幻想的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 704,
+      "originalWord": "available",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "有空的，有暇的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 706,
+      "originalWord": "attentive",
+      "originalYear": "2017",
+      "originalText": "Text 2",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "专心的，留意的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 710,
+      "originalWord": "inherent",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "固有的，内在的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 713,
+      "originalWord": "academic",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "学业的，学术的（尤指与学校 教育有关）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 714,
+      "originalWord": "mandatory",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "强制的，义务的，法定的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 719,
+      "originalWord": "lucrative",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "赚大钱的，获利多的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 722,
+      "originalWord": "costly",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "meanings": [
+        "昂贵的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 737,
+      "originalWord": "corresponding",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "meanings": [
+        "相应的，由此引起的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 741,
+      "originalWord": "inclusive",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "meanings": [
+        "包容广阔的，范围广的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 748,
+      "originalWord": "simplified",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "meanings": [
+        "简化的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 751,
+      "originalWord": "nationwide",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "meanings": [
+        "全国范围的，全国性的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 753,
+      "originalWord": "prone",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "meanings": [
+        "易于发生某事的；很可能…… 的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1017,
+      "originalWord": "ultra-",
+      "originalYear": "2020",
+      "originalText": "Text 3",
+      "page": 20,
+      "verified": true,
+      "meanings": [
+        "极端/非常"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1206,
+      "originalWord": "gmo",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 24,
+      "verified": true,
+      "meanings": [
+        "转基因生物（全写为genetically modifiedorganism）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1595,
+      "originalWord": "little",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "meanings": [
+        "det.不多的；几乎没有的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1736,
+      "originalWord": "historically",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "以往"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1737,
+      "originalWord": "assume",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "认为"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1740,
+      "originalWord": "process",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "处理（文件、请求等）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1746,
+      "originalWord": "generosity",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "慷慨"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1747,
+      "originalWord": "reward",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "奖励"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1748,
+      "originalWord": "optional",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "非强制性的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1750,
+      "originalWord": "service norms",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "服务规范"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1752,
+      "originalWord": "timing",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "时机的把握"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1753,
+      "originalWord": "incentive",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "激励"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1754,
+      "originalWord": "automatically",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "自动"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1755,
+      "originalWord": "in advance",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "提前"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1757,
+      "originalWord": "digital payment devices",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "数字支付设备"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1759,
+      "originalWord": "tip requests",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "小费索要"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1760,
+      "originalWord": "routinely",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "经常"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1761,
+      "originalWord": "default options",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "默认选项"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1762,
+      "originalWord": "ever-higher",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 33,
+      "verified": true,
+      "meanings": [
+        "越来越高的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1763,
+      "originalWord": "diversification",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "多样化"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1764,
+      "originalWord": "supplement",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "增补"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1765,
+      "originalWord": "primarily",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "主要"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1769,
+      "originalWord": "frustrated",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "十分恼怒的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1775,
+      "originalWord": "out of date",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "过时"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1777,
+      "originalWord": "be on waitlists",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "在排队等候"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1779,
+      "originalWord": "breaking point",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "崩溃边缘"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1781,
+      "originalWord": "private medical services",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "私立医疗机构"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1783,
+      "originalWord": "retain",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "保留"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1786,
+      "originalWord": "divert",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "分流"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1790,
+      "originalWord": "social care",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "社会护理"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1792,
+      "originalWord": "despite",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "尽管"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1793,
+      "originalWord": "reform think tank",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "改革智库"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1794,
+      "originalWord": "call for",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "呼吁"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1796,
+      "originalWord": "hospital-centric",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "以医院为中心的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1797,
+      "originalWord": "reinforce",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "加强"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1798,
+      "originalWord": "regulation",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "规章"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1799,
+      "originalWord": "resume",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "重启"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1800,
+      "originalWord": "begin with",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "从......着手"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1801,
+      "originalWord": "it is estimated that",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "据估计"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1802,
+      "originalWord": "socialize",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 34,
+      "verified": true,
+      "meanings": [
+        "社交"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1803,
+      "originalWord": "determinant",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "因素"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1805,
+      "originalWord": "taxpayer",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "纳税人"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1806,
+      "originalWord": "hefty price",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "高昂费用"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1807,
+      "originalWord": "due",
+      "originalYear": "2025",
+      "originalText": "Text 2",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "应有的学长小谭"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1811,
+      "originalWord": "in general",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "一般来说"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1813,
+      "originalWord": "official",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "官员"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1814,
+      "originalWord": "alert",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "向......发出警报"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1815,
+      "originalWord": "call for",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "号召；要求"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1817,
+      "originalWord": "ward",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "病房"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1818,
+      "originalWord": "construction laborers",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "建筑工人"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1819,
+      "originalWord": "tackle",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "应对；处理"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1820,
+      "originalWord": "emergency warning",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "紧急预警"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1821,
+      "originalWord": "implementation",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "实施情况"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1822,
+      "originalWord": "uneven",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "参差不齐的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1823,
+      "originalWord": "triggering threshold",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "触发阈值"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1824,
+      "originalWord": "trigger",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "触发"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1825,
+      "originalWord": "gauge",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "衡量指标"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1829,
+      "originalWord": "delayed",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "滞后的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1831,
+      "originalWord": "localized",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "贴合当地情况的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1832,
+      "originalWord": "nuanced",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "细致入微的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1834,
+      "originalWord": "coastal",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "沿海的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1835,
+      "originalWord": "amplify",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "加剧"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1837,
+      "originalWord": "potentially",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "潜在地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1838,
+      "originalWord": "outline",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 35,
+      "verified": true,
+      "meanings": [
+        "概述"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1840,
+      "originalWord": "vulnerability",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "脆弱性"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1842,
+      "originalWord": "mapping",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "地图绘制工作"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1843,
+      "originalWord": "dwelling",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "住宅区"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1846,
+      "originalWord": "relief",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "救援"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1847,
+      "originalWord": "shade",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "树荫"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1848,
+      "originalWord": "modify",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "修订"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1876,
+      "originalWord": "integrate a to b",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "meanings": [
+        "将A整合进B"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1930,
+      "originalWord": "old-fashioned",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "陈旧的；过时的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1932,
+      "originalWord": "startlingly",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "惊人地；显著地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1933,
+      "originalWord": "conduct",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "实施；执行"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1935,
+      "originalWord": "independent review",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "独立评估"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1937,
+      "originalWord": "multitude",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "众多；大量"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1938,
+      "originalWord": "access",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "（使用或见到的）机会，权 利"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1940,
+      "originalWord": "entrepreneur",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "创业者；企业家"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1941,
+      "originalWord": "intellectual property",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "知识产权"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1943,
+      "originalWord": "precisely",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 37,
+      "verified": true,
+      "meanings": [
+        "确切地；准确地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1944,
+      "originalWord": "institution",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "（大学、银行等规模大的） 机构"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1945,
+      "originalWord": "underappreciate",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "未充分认可"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1946,
+      "originalWord": "struggle",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "挣扎；艰难运营"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1949,
+      "originalWord": "come under",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "被……控制；受……影响"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1950,
+      "originalWord": "chartered",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "合格的；特许的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1951,
+      "originalWord": "accountancy",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "会计行业；会计工作"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1952,
+      "originalWord": "council",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "（顾问、研究、基金等）委 员会"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1954,
+      "originalWord": "physical",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "物质的；有形的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1955,
+      "originalWord": "scheme",
+      "originalYear": "2026",
+      "originalText": "Text 1",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "计划；方案"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1958,
+      "originalWord": "isolated",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "孤独的；孤立的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1959,
+      "originalWord": "connection",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "情感纽带；亲密关系"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1960,
+      "originalWord": "confidential",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "机密的；保密的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1961,
+      "originalWord": "implication",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "可能的影响（或作用、结果）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "n"
+    },
+    {
+      "index": 1962,
+      "originalWord": "expose",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "使（隐藏或私密的事物）暴 露，显露"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1963,
+      "originalWord": "regulate",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "约束；管理"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1964,
+      "originalWord": "third party",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "第三方"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1966,
+      "originalWord": "in place",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "到位；准备就绪"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1967,
+      "originalWord": "leverage",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "利用；充分运用"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1968,
+      "originalWord": "exposure",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "泄露；暴露"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1969,
+      "originalWord": "storage",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "存储；储存"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1970,
+      "originalWord": "ownership",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "所有权；产权"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1971,
+      "originalWord": "engagement",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "使用特定系统或技术的行为"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1972,
+      "originalWord": "positively",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "积极地；有助益地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1973,
+      "originalWord": "landscape",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 38,
+      "verified": true,
+      "meanings": [
+        "全貌；图景"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1975,
+      "originalWord": "admin",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "行政工作；管理事务"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1976,
+      "originalWord": "compromise",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "损害；妥协"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1977,
+      "originalWord": "victim",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "受害者；上当的人"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1981,
+      "originalWord": "launch",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "投放市场；推出"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1983,
+      "originalWord": "maintenance",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "维护；保养"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1985,
+      "originalWord": "disruption",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "扰乱；中断"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1986,
+      "originalWord": "coverage",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "新闻报道"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1987,
+      "originalWord": "operator",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "经营者；专业公司"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1988,
+      "originalWord": "infrastructure",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "基础设施"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1989,
+      "originalWord": "beneficiary",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "受益者；受益机构"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1990,
+      "originalWord": "inevitable",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "不可避免的；必然发生的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1991,
+      "originalWord": "spare",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "备用的；额外的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。",
+      "pos": "adj"
+    },
+    {
+      "index": 1992,
+      "originalWord": "congestion",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "（交通）拥堵；塞车"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1994,
+      "originalWord": "break down",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "停止运转；出故障"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1995,
+      "originalWord": "density",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "page": 39,
+      "verified": true,
+      "meanings": [
+        "密度"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对中文释义，去除邻栏串入内容。"
+    },
+    {
+      "index": 1751,
+      "originalWord": "to do",
+      "originalYear": "2025",
+      "originalText": "Text 1",
+      "word": "used to do sth.",
+      "meanings": [
+        "曾经做某事"
+      ],
+      "pos": "phrase",
+      "page": 33,
+      "verified": true,
+      "note": "已逐行查看 PDF 原页，恢复被文字提取截断的完整短语。"
+    },
+    {
+      "index": 1844,
+      "originalWord": "with",
+      "originalYear": "2025",
+      "originalText": "Text 3",
+      "word": "cope with",
+      "meanings": [
+        "有效应对"
+      ],
+      "pos": "phrase",
+      "page": 36,
+      "verified": true,
+      "note": "已逐行查看 PDF 原页，恢复被文字提取截断的完整短语。"
+    },
+    {
+      "index": 1984,
+      "originalWord": "for",
+      "originalYear": "2026",
+      "originalText": "Text 3",
+      "word": "account for",
+      "meanings": [
+        "（数量或比例上）占"
+      ],
+      "pos": "phrase",
+      "page": 39,
+      "verified": true,
+      "note": "已逐行查看 PDF 原页，恢复被文字提取截断的完整短语。"
+    },
+    {
+      "index": 1978,
+      "originalWord": "away from",
+      "originalYear": "2026",
+      "originalText": "Text 2",
+      "word": "back away from sth.",
+      "meanings": [
+        "从……后退；对……避而远之"
+      ],
+      "pos": "phrase",
+      "page": 39,
+      "verified": true,
+      "note": "已逐行查看 PDF 原页，恢复被文字提取截断的完整短语。"
+    },
+    {
+      "index": 19,
+      "originalWord": "slump",
+      "originalYear": "2010",
+      "originalText": "Text 1",
+      "page": 1,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（价格、数值等）暴跌、不景气、 萧条"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 87,
+      "originalWord": "jury",
+      "originalYear": "2010",
+      "originalText": "Text 4",
+      "page": 2,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（由12位公民组成的）陪审团"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 124,
+      "originalWord": "weather",
+      "originalYear": "2011",
+      "originalText": "Text 1",
+      "page": 3,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "平安渡过（难关），挨过，经 受住"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 165,
+      "originalWord": "signature",
+      "originalYear": "2011",
+      "originalText": "Text 3",
+      "page": 4,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "签名，署名；鲜明特征；识别 标志"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 179,
+      "originalWord": "converge",
+      "originalYear": "2011",
+      "originalText": "Text 4",
+      "page": 4,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "（线条、运动的物体等）会于 一点；使聚集"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 185,
+      "originalWord": "stuck",
+      "originalYear": "2011",
+      "originalText": "Text 4",
+      "page": 4,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "动不了的，被卡住的，被难住 的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 190,
+      "originalWord": "remarkably",
+      "originalYear": "2011",
+      "originalText": "Text 4",
+      "page": 4,
+      "verified": true,
+      "pos": "adv",
+      "meanings": [
+        "引人注目地，明显地，非常地， 奇异地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 252,
+      "originalWord": "alike",
+      "originalYear": "2012",
+      "originalText": "Text 3",
+      "page": 5,
+      "verified": true,
+      "pos": "adv",
+      "meanings": [
+        "同样都（用于强调刚刚提及 的两者）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 268,
+      "originalWord": "materialistic",
+      "originalYear": "2012",
+      "originalText": "Text 4",
+      "page": 6,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "实利主义的，物质主义的（含 贬义）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 310,
+      "originalWord": "nickname",
+      "originalYear": "2013",
+      "originalText": "Text 2",
+      "page": 7,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（尤指给家人或朋友取的）绰 号，昵称"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 318,
+      "originalWord": "commit",
+      "originalYear": "2013",
+      "originalText": "Text 2",
+      "page": 7,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "承诺，保证（做某事、遵守协 议或遵从安排等）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 319,
+      "originalWord": "accommodate",
+      "originalYear": "2013",
+      "originalText": "Text 2",
+      "page": 7,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "为（某人）提供住宿（或膳宿、座 位等），容纳"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 322,
+      "originalWord": "paralysis",
+      "originalYear": "2013",
+      "originalText": "Text 2",
+      "page": 7,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "麻痹；无力；停顿；（活动工 作的能力）完全丧失，瘫痪"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 333,
+      "originalWord": "slice",
+      "originalYear": "2013",
+      "originalText": "Text 3",
+      "page": 7,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "切下；把……分成部分将……切成 薄片"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 339,
+      "originalWord": "mute",
+      "originalYear": "2013",
+      "originalText": "Text 3",
+      "page": 7,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "减弱……的声音；使……柔和，例 句中引申为控制，抑制"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 350,
+      "originalWord": "senior",
+      "originalYear": "2013",
+      "originalText": "Text 4",
+      "page": 7,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "高级的，地位较高的，级别高 的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 351,
+      "originalWord": "board",
+      "originalYear": "2013",
+      "originalText": "Text 4",
+      "page": 7,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（公司或其他机构的）董事会，委 员会，理事会"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 455,
+      "originalWord": "housing",
+      "originalYear": "2014",
+      "originalText": "Text 4",
+      "page": 9,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "住宅，住房（尤指住房类型、 价格、条件）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 561,
+      "originalWord": "confusing",
+      "originalYear": "2016",
+      "originalText": "Text 1",
+      "page": 11,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "令人困惑的，难懂的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 588,
+      "originalWord": "acre",
+      "originalYear": "2016",
+      "originalText": "Text 2",
+      "page": 12,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "英亩（相当于0.405公顷）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 651,
+      "originalWord": "climb",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（社会地位）上升；（职务）晋升； 提高（地位）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 658,
+      "originalWord": "serve",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "为……提供服务；满足……的 需要"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 659,
+      "originalWord": "secure",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "（尤指经过努力）获得，取得，实 现"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 662,
+      "originalWord": "aftermath",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（战争、风暴、事故的）后果， 余波"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 663,
+      "originalWord": "searing",
+      "originalYear": "2016",
+      "originalText": "Text 4",
+      "page": 13,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "炽热的，灼热的；灼痛的，剧痛 的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 667,
+      "originalWord": "staff",
+      "originalYear": "2017",
+      "originalText": "Text 1",
+      "page": 13,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "为……配备工作人员，在……工 作"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 707,
+      "originalWord": "conjunction",
+      "originalYear": "2017",
+      "originalText": "Text 3",
+      "page": 14,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（引起某种结果的事物等的） 结合，同时发生"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 734,
+      "originalWord": "wildfire",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "不易扑灭的大火，野火；大火 灾"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 758,
+      "originalWord": "inevitable",
+      "originalYear": "2017",
+      "originalText": "Text 4",
+      "page": 15,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "必然发生的，难以避免的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 766,
+      "originalWord": "justify",
+      "originalYear": "2018",
+      "originalText": "Text 1",
+      "page": 15,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "证明别人认为不合理的事有道 理，为……辩护"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 767,
+      "originalWord": "academically",
+      "originalYear": "2018",
+      "originalText": "Text 1",
+      "page": 15,
+      "verified": true,
+      "pos": "adv",
+      "meanings": [
+        "纯理论地，学术上地（与实践相 对）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 828,
+      "originalWord": "well-structured",
+      "originalYear": "2018",
+      "originalText": "Text 4",
+      "page": 16,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "结构良好的，条理清晰的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 837,
+      "originalWord": "seize",
+      "originalYear": "2018",
+      "originalText": "Text 4",
+      "page": 17,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "抓住，把握（机会、时机、主 动等）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 876,
+      "originalWord": "prosocial",
+      "originalYear": "2019",
+      "originalText": "Text 1",
+      "page": 17,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "亲社会的，忠实于既定社会道德 准则的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 948,
+      "originalWord": "enact",
+      "originalYear": "2019",
+      "originalText": "Text 4",
+      "page": 19,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "通过（法律），将……制定成 法律"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 998,
+      "originalWord": "pick",
+      "originalYear": "2020",
+      "originalText": "Text 2",
+      "page": 20,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "选中的人（或物）；挑选出来的人 （或物）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1005,
+      "originalWord": "mind-boggling",
+      "originalYear": "2020",
+      "originalText": "Text 2",
+      "page": 20,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "难以置信的；十分惊人的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1013,
+      "originalWord": "mild",
+      "originalYear": "2020",
+      "originalText": "Text 3",
+      "page": 20,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "（惩罚等）轻微的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1025,
+      "originalWord": "deliver",
+      "originalYear": "2020",
+      "originalText": "Text 3",
+      "page": 20,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "递送（货物等），文中延伸为“带 来（影响）”"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1032,
+      "originalWord": "contentious",
+      "originalYear": "2020",
+      "originalText": "Text 3",
+      "page": 20,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "引起争议的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1115,
+      "originalWord": "dominate",
+      "originalYear": "2021",
+      "originalText": "Text 3",
+      "page": 22,
+      "verified": true,
+      "pos": "v",
+      "meanings": [
+        "占支配地位；（比赛中）占优 势"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1131,
+      "originalWord": "drive",
+      "originalYear": "2021",
+      "originalText": "Text 3",
+      "page": 22,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（为达到某目的）有组织的努 力"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1150,
+      "originalWord": "clip",
+      "originalYear": "2021",
+      "originalText": "Text 4",
+      "page": 23,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（电影或电视节目的）剪辑； 片段"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1176,
+      "originalWord": "niche",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "（产品）针对特定群体"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1181,
+      "originalWord": "random",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "随机的；随意的，无已定之规 的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1189,
+      "originalWord": "debut",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（新产品的）首次亮相；初次 登台"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1192,
+      "originalWord": "promotional",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "广告宣传的；推销的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1194,
+      "originalWord": "tough",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "艰难的；棘手的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1196,
+      "originalWord": "associate",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "副的；非正式的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1197,
+      "originalWord": "regenerative",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "有再生作用的；更生的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1198,
+      "originalWord": "minimal",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 23,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "极小的；极少的；最小的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1209,
+      "originalWord": "premium",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 24,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "高昂的；优质的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1216,
+      "originalWord": "concerned",
+      "originalYear": "2022",
+      "originalText": "Text 1",
+      "page": 24,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "关心的；关切的；关注的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1228,
+      "originalWord": "boomer",
+      "originalYear": "2022",
+      "originalText": "Text 2",
+      "page": 24,
+      "verified": true,
+      "pos": "n",
+      "meanings": [
+        "（尤指第二次世界大战以后）生育 高峰期出生的人；婴儿潮一代"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1236,
+      "originalWord": "overall",
+      "originalYear": "2022",
+      "originalText": "Text 2",
+      "page": 24,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "总体的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1248,
+      "originalWord": "emotional",
+      "originalYear": "2022",
+      "originalText": "Text 2",
+      "page": 24,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "感情的；情绪的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1250,
+      "originalWord": "intuitive",
+      "originalYear": "2022",
+      "originalText": "Text 3",
+      "page": 24,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "易懂的；使用简便的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1256,
+      "originalWord": "prevalent",
+      "originalYear": "2022",
+      "originalText": "Text 3",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "盛行的；普遍存在的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1265,
+      "originalWord": "transparent",
+      "originalYear": "2022",
+      "originalText": "Text 3",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "易懂的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1267,
+      "originalWord": "complicated",
+      "originalYear": "2022",
+      "originalText": "Text 3",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "复杂的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1275,
+      "originalWord": "catch-all",
+      "originalYear": "2022",
+      "originalText": "Text 3",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "含义甚广的；笼统的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1287,
+      "originalWord": "unsure",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "无把握的；不确知的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1292,
+      "originalWord": "steady",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "稳定的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1293,
+      "originalWord": "unreliable",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "不可靠的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1297,
+      "originalWord": "lasting",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "持久的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1300,
+      "originalWord": "reversible",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "可逆转的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1305,
+      "originalWord": "unstable",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "不稳定的；易变的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1308,
+      "originalWord": "achievable",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "可实现的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1310,
+      "originalWord": "emotional",
+      "originalYear": "2022",
+      "originalText": "Text 4",
+      "page": 25,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "情感的；情绪的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1450,
+      "originalWord": "digital",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 28,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "数学的；数学化的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1458,
+      "originalWord": "recent",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 28,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "近来的；新近的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1462,
+      "originalWord": "middle-income",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 28,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "中等收入的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1465,
+      "originalWord": "sustainable",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 28,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "可持续的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1470,
+      "originalWord": "various",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 28,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "各种各样的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1483,
+      "originalWord": "transformative",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "变革性的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1492,
+      "originalWord": "prosperous",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "繁荣的；富足的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1495,
+      "originalWord": "concentrated",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "密集的；集中的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1502,
+      "originalWord": "geographical",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "地域的；地理位置的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1508,
+      "originalWord": "regional",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "地区的；区域的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1515,
+      "originalWord": "federal",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "联邦政府的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1517,
+      "originalWord": "independent",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "独立的；不受影响的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1519,
+      "originalWord": "immediate",
+      "originalYear": "2024",
+      "originalText": "Text 1",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "立即的；立刻的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1534,
+      "originalWord": "urgent",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "紧急的；需迅速处理的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1538,
+      "originalWord": "stable",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 29,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "稳定的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1543,
+      "originalWord": "homo-grown",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "自产的；本国产的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1545,
+      "originalWord": "fresh",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "新近的；新近出现的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1550,
+      "originalWord": "chief",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "首席的；为首的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1555,
+      "originalWord": "domestic",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "本国的；国内的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1560,
+      "originalWord": "ideal",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "理想的；最合适的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1562,
+      "originalWord": "low-carbon",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "低碳的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1569,
+      "originalWord": "current",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "目前的；现在的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1572,
+      "originalWord": "outdated",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "过时的；陈旧的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1574,
+      "originalWord": "productive",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "生产性的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1578,
+      "originalWord": "significant",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "显著的；相当大的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1582,
+      "originalWord": "financial",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "财政的；财务的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1590,
+      "originalWord": "critical",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "关键的；极重要的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1591,
+      "originalWord": "secure",
+      "originalYear": "2024",
+      "originalText": "Text 2",
+      "page": 30,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "可靠的；稳定的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1668,
+      "originalWord": "available",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "可获得的；可购得的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1673,
+      "originalWord": "existing",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "现存的；现行的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1687,
+      "originalWord": "additional",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "额外的；附加的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1693,
+      "originalWord": "federal",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "联邦政府的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1699,
+      "originalWord": "express",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "明确表达的；明白表示的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1700,
+      "originalWord": "sensitive",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "敏感的；限制透露的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1706,
+      "originalWord": "affirmative",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "同意的；赞成的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1714,
+      "originalWord": "deceptive",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "欺骗性的；误导的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1716,
+      "originalWord": "misleading",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "误导性的；迷惑性的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1717,
+      "originalWord": "unjustified",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 32,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "不公平的；不正当的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1722,
+      "originalWord": "immense",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 33,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "极大的；巨大的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1727,
+      "originalWord": "comprehensive",
+      "originalYear": "2024",
+      "originalText": "Text 4",
+      "page": 33,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "全面的；详尽的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1850,
+      "originalWord": "unofficial",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "非官方的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1851,
+      "originalWord": "urban",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "城市的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1855,
+      "originalWord": "unspoken",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "未说出口的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1856,
+      "originalWord": "collective",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "集体的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1858,
+      "originalWord": "otherwise",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "原本的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1864,
+      "originalWord": "effectively",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "有效地"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1867,
+      "originalWord": "surrounding",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "周围的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1888,
+      "originalWord": "designated",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "指定的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1890,
+      "originalWord": "rebellious",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "叛逆的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1893,
+      "originalWord": "inherent",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 36,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "固有的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1895,
+      "originalWord": "ongoing",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "持续的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1896,
+      "originalWord": "user-driven",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "用户驱动的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1897,
+      "originalWord": "organic",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "自然的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1898,
+      "originalWord": "curated",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "精心策划的（根据文义理解）"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1907,
+      "originalWord": "diagonal",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "对角线的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1914,
+      "originalWord": "alternate",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "替代的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1917,
+      "originalWord": "frozen",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "冰封的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1923,
+      "originalWord": "unconventional",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "非传统的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1925,
+      "originalWord": "communal",
+      "originalYear": "2025",
+      "originalText": "Text 4",
+      "page": 37,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "群体的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1997,
+      "originalWord": "beloved",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "page": 39,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "钟爱的；深受喜爱的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 1999,
+      "originalWord": "massive",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "page": 39,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "巨大的；强大的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 2008,
+      "originalWord": "portable",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "page": 39,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "临时搭建的；可移动的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 2022,
+      "originalWord": "anticipated",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "page": 40,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "受期待的；令人期盼的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    },
+    {
+      "index": 2023,
+      "originalWord": "indie",
+      "originalYear": "2026",
+      "originalText": "Text 4",
+      "page": 40,
+      "verified": true,
+      "pos": "adj",
+      "meanings": [
+        "非主要唱片公司的；独立制作的"
+      ],
+      "note": "按 PDF 表格同名词条及页码核对词性与中文释义，保留原始记录 ID。"
+    }
+  ],
+  "additions": [],
+  "notes": [
+    "2024 Text 3 并非缺词：第31页59个已提取记录全部误归为 Text 2。原 PDF 有60个表格词位，require 出现两次，原词库已合并其两条释义。",
+    "务必先以原始 word/year/text/index 建立稳定 ID，再应用 corrections；不要替换原源文件。",
+    "homo-grown、integrate A to B、a wide range array of 在原 PDF 中也如此书写，仍需语言层面的核对，没有据猜测改成另一词。"
+  ]
+}

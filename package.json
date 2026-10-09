@@ -1,0 +1,18 @@
+{
+  "name": "wordtrail-english",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WordTrail English learning with DeepSeek Harness",
+  "scripts": {
+    "dsh": "dsh",
+    "test:learning": "node verify_upgrades.js",
+    "test:tutor": "python -m unittest discover -s tests -p test_*.py -v",
+    "start": "python dev_server.py",
+    "check:size": "python check_size.py"
+  },
+  "dependencies": {
+    "@deepseek-ai/dsh": "0.2.1-alpha.2",
+    "@deepseek-ai/dsh-tools": "0.2.1-alpha.2",
+    "@deepseek-ai/dsh-sdk-protocol": "0.2.1-alpha.2"
+  }
+}

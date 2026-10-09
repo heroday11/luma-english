@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#18aa8c"><title>词境 WordTrail · 考研英语二</title><link rel="stylesheet" href="./styles.css"><link rel="stylesheet" href="./upgrades.css"><link rel="stylesheet" href="./tutor.css"></head>
+<body>
+<aside class="sidebar">
+<a class="brand" href="./" aria-label="词境首页"><span class="brand-mark">w</span><span>词境<small>WORDTRAIL</small></span></a>
+<div class="course-pill"><span class="course-flag">EN</span><span>考研英语二<small>真题词汇 · 2010—2026</small></span></div>
+<nav class="main-nav" aria-label="主导航">
+<button class="nav-item active" data-view="learn"><span data-icon="path"></span><span>学习路径</span></button>
+<button class="nav-item" data-view="tutor" aria-label="AI 老师"><span data-icon="book"></span><span>AI 老师</span></button>
+<button class="nav-item" data-view="library"><span data-icon="book"></span><span>我的词库</span></button>
+<button class="nav-item" data-view="practice"><span data-icon="practice"></span><span>练习与复习</span><span class="nav-dot"></span></button>
+<button class="nav-item" data-view="context"><span data-icon="play"></span><span>情境听读</span></button>
+<button class="nav-item" data-view="profile"><span data-icon="user"></span><span>个人中心</span></button>
+</nav>
+<div class="sidebar-bottom"><div class="tiny-label">一点进步，每天发生</div><p>认识一个词，走进一个新世界。</p><span class="source-label">你的考研英语二专属词书</span></div>
+</aside>
+<div class="app-body">
+<header class="topbar"><div class="header-copy"><h1 id="headerTitle">学习路径</h1><p id="headerSubtitle">每天一小关，让英语成为习惯。</p></div><div class="top-actions"><span class="top-stat flame"><span data-icon="flame"></span><b id="topStreak">0</b><small>天</small></span><span class="top-stat xp"><span data-icon="bolt"></span><b id="topXp">0</b><small>XP</small></span><button id="toggleSfx" class="icon-btn" aria-label="切换互动音效" aria-pressed="true"><span data-icon="sound"></span></button><button id="accountButton" class="avatar-button" aria-label="登录或打开个人中心"><span data-icon="user"></span></button></div></header>
+<div class="content-layout"><main class="main-content">
+<section id="learnView" class="view"><div id="pathContent"><div class="skeleton-banner"></div><div class="loading-state">正在准备你的学习路径…</div></div></section>
+<section id="libraryView" class="view" hidden><div id="libraryContent"></div></section>
+<section id="practiceView" class="view" hidden><div id="practiceContent"></div></section>
+<section id="contextView" class="view" hidden><div id="contextContent"></div></section>
+<section id="profileView" class="view" hidden><div id="profileContent"></div></section>
+<section id="tutorView" class="view" hidden><div id="tutorContent"></div></section>
+</main><aside id="rightRail" class="right-rail" aria-label="每日学习概况"></aside></div>
+</div>
+<div id="lessonOverlay" class="lesson-overlay" hidden role="dialog" aria-modal="true" aria-label="学习关卡"><div id="lessonShell" class="lesson-shell"></div></div>
+<div id="authModal" class="modal" hidden role="dialog" aria-modal="true" aria-labelledby="authTitle"><div class="modal-backdrop" data-modal-close></div><div class="auth-card"><button class="modal-close icon-btn" data-modal-close aria-label="关闭登录">×</button><div class="auth-art" id="authArt"></div><div class="eyebrow">YOUR NEXT CHAPTER</div><h2 id="authTitle">欢迎回到词境</h2><p class="muted">把每一次进步，写进你的学习旅程。</p><div class="auth-switch"><button class="auth-tab active" data-auth-mode="login">登录</button><button class="auth-tab" data-auth-mode="register">创建账号</button></div><form id="authForm"><label id="nameField" class="field-label" hidden>你的昵称<input id="authName" name="name" autocomplete="nickname" placeholder="怎么称呼你？" maxlength="24"></label><label class="field-label">邮箱<input id="authEmail" name="email" type="email" required autocomplete="email" placeholder="you@example.com"></label><label class="field-label">密码<input id="authPassword" name="password" type="password" minlength="6" required autocomplete="current-password" placeholder="至少 6 位字符"></label><label id="recoveryField" class="field-label" hidden>账号恢复码<input id="authRecovery" autocomplete="off" placeholder="个人中心生成并保存的恢复码"></label><p id="authError" class="auth-error" role="alert"></p><button id="authSubmit" class="button primary auth-submit" type="submit">登录，继续学习</button></form><button class="button ghost full" data-auth-mode="recover">忘记密码？使用恢复码</button><p class="auth-foot">登录后按账号保存学习记录，游客进度保存在浏览器中</p></div></div>
+<div id="imageModal" class="modal" hidden role="dialog" aria-modal="true" aria-label="完整配图"><div class="modal-backdrop" data-image-close></div><div class="image-viewer"><button class="modal-close icon-btn" data-image-close aria-label="关闭图片">×</button><img id="fullImage" alt="词汇联想完整配图"><a id="fullImageSource" target="_blank" rel="noreferrer">图片来源与许可 ↗</a></div></div>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<input id="importFile" type="file" accept="application/json,.json" hidden>
+<script src="./visuals.js"></script><script src="./vendor/index.umd.js"></script><script src="./content-engine.js"></script><script src="./memory-engine.js"></script><script src="./audio-player.js"></script><script src="./tutor.js"></script><script src="./app.js" defer></script>
+</body></html>

@@ -1,0 +1,169 @@
+{
+  "rose-tint": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "rose-tint",
+      "pos": "v",
+      "meanings": [
+        "染上玫瑰色；粉饰；美化"
+      ]
+    }
+  },
+  "homo-grown": {
+    "reviewRequired": true,
+    "note": "PDF 第30页原行也写作 homo-grown；常见表达为 home-grown，原资料疑似拼写错误，暂不自动纠正。",
+    "suggestedHeadword": "home-grown"
+  },
+  "prompt to do": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "prompt sb. to do sth.",
+      "pos": "phrase",
+      "meanings": [
+        "提示某人做某事"
+      ]
+    }
+  },
+  "have less to do": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "have less to do with",
+      "pos": "phrase",
+      "meanings": [
+        "与……关联更小"
+      ]
+    }
+  },
+  "it easier to do": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "make it easier to do sth.",
+      "pos": "phrase",
+      "meanings": [
+        "使做某事变得更容易"
+      ]
+    }
+  },
+  "the national health": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "the National Health Service (NHS)",
+      "pos": "phrase",
+      "meanings": [
+        "英国国民医疗服务体系"
+      ]
+    }
+  },
+  "the burden": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "lighten the burden of",
+      "pos": "phrase",
+      "meanings": [
+        "减轻……的负担"
+      ]
+    }
+  },
+  "keep under great": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "keep sth. under great pressure",
+      "pos": "phrase",
+      "meanings": [
+        "使……承受巨大压力"
+      ]
+    }
+  },
+  "be bolstered": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "be bolstered with",
+      "pos": "phrase",
+      "meanings": [
+        "配备有……"
+      ]
+    }
+  },
+  "integrate a to b": {
+    "reviewRequired": true,
+    "note": "PDF 第36页原行也写作 integrate A to B；常见搭配为 integrate A into B，原资料介词需核对，暂不自动纠正。"
+  },
+  "a wide range array of": {
+    "reviewRequired": true,
+    "note": "PDF 第37页原行也写作 a wide range array of；疑似合并两种搭配，原资料需核对，暂不自动纠正。"
+  },
+  "to mind": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "spring to mind",
+      "pos": "phrase",
+      "meanings": [
+        "立即被想到"
+      ]
+    }
+  },
+  "and down": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "up and down",
+      "pos": "phrase",
+      "meanings": [
+        "到处；四面八方"
+      ]
+    }
+  },
+  "the beans": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "spill the beans",
+      "pos": "phrase",
+      "meanings": [
+        "泄露秘密；说漏嘴"
+      ]
+    }
+  },
+  "terms of": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "in terms of",
+      "pos": "phrase",
+      "meanings": [
+        "在……方面；从……角度来看"
+      ]
+    }
+  },
+  "the meantime": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "in the meantime",
+      "pos": "phrase",
+      "meanings": [
+        "在此期间；与此同时"
+      ]
+    }
+  },
+  "festgoer": {
+    "reviewRequired": false,
+    "note": "已在 PDF 图像中核对完整原行。",
+    "sourceCorrection": {
+      "word": "festgoer",
+      "pos": "n",
+      "meanings": [
+        "节庆活动参与者"
+      ]
+    }
+  }
+}

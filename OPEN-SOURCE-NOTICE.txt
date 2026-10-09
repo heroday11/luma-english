@@ -1,0 +1,25 @@
+WordTrail uses the following open-source components:
+
+DeepSeek Harness 0.2.1-alpha.2 and its official Cordis/SDK/Skill components — MIT
+https://github.com/deepseek-ai/deepseek-harness
+Installed unmodified through npm; exact versions and transitive dependencies
+are in package-lock.json. Upstream licenses remain in node_modules packages.
+WordTrail's teaching plugins are local adapters, not modifications to upstream.
+
+ts-fsrs 5.4.2 — MIT
+Copyright (c) 2026 Open Spaced Repetition
+https://github.com/open-spaced-repetition/ts-fsrs
+The unmodified browser and CommonJS distributions are in vendor/.
+The complete license is in vendor/LICENSE.
+
+edge-tts 7.2.8 — LGPLv3 (srt_composer.py uses MIT)
+https://github.com/rany2/edge-tts
+Installed as a separate Python dependency. No library source modifications.
+Connects to Microsoft Edge's online speech service; no local inference model.
+This is a community client, not a Microsoft API availability guarantee.
+License and GPL text: dictionary-licenses/edge-tts-LICENSE.txt and edge-tts-GPL-3.0.txt.
+
+Dictionary data licenses: DICTIONARY-NOTICE.txt and dictionary-licenses/.
+Original definitions and teaching examples are labeled WordTrail original.
+They are supplementary teaching content, not quotes from the examination PDF,
+and have not been certified as fully reviewed by a human teacher.

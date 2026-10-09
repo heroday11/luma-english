@@ -1,0 +1,39 @@
+离线词典来源与展示约定
+======================
+
+1. ECDICT
+   项目：https://github.com/skywind3000/ECDICT
+   固定版本：bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b
+   数据文件：ecdict.csv
+   许可：MIT。完整声明见 dictionary-licenses/ECDICT-LICENSE.txt。
+   音标、中文词义、独立英文释义、词形变化和考试标签取自该项目。
+   注意：definition 和 translation 不含共同义项 ID，不能按行号逐条配对。
+   数据包含旧式音标和旧词典表达；词义仅作补充，原 PDF 词义和人工双语条目优先。
+
+2. Princeton WordNet 3.0
+   项目：https://wordnet.princeton.edu/
+   数据分发：https://github.com/nltk/nltk_data/tree/gh-pages/packages/corpora
+   数据：wordnet.zip 内的 index.* 和 data.*。
+   许可：WordNet 3.0 license。完整声明见 dictionary-licenses/WORDNET-LICENSE.txt。
+   英文定义和原始英文例句以 WordNet 3.0 synset ID 为键。
+
+3. Chinese Open WordNet (COW)，通过 Open Multilingual Wordnet
+   项目：https://bond-lab.github.io/cow/
+   数据：https://github.com/omwn/omw-data/tree/main/wns/cow
+   固定版本：406bf83b3c507a3d1f26e88252d5d66893fd36bf
+   数据文件：wn-data-cmn.tab
+   许可：Chinese Open WordNet license。完整声明见 dictionary-licenses/COW-LICENSE.txt。
+   引用：Shan Wang and Francis Bond. 2013. Building the Chinese Open Wordnet (COW):
+   Starting from Core Synsets. Proceedings of the 11th Workshop on Asian Language
+   Resources, pp. 10–18.
+   引用：Francis Bond and Ryan Foster. 2013. Linking and extending an open multilingual
+   wordnet. Proceedings of ACL 2013, pp. 1352–1362.
+
+local-dictionary.json 中的 alignedSenses 通过共同 synset ID 关联英语定义与中文等义词。
+zhType="equivalent-lemmas" 的 zh 是同一义项的中文词汇表达，不是整句英语解释的翻译。
+建议界面标为“英文解释 / 中文词义”，不要标为“英文解释的中文翻译”。
+只有 learning-content.json 的原创人工条目提供真正逐义对应的英汉定义和双语例句。
+
+数据生成：运行 build_local_dictionary.py。使用 Python 标准库，无额外依赖。
+初次生成下载源文件到系统用户缓存 WordTrail/dictionary-cache（可用 WORDTRAIL_DICTIONARY_CACHE 指定）；网页只需加载筛选后的 local-dictionary.json。
+dictionary-sources.json 保存来源、版本、文件校验和以及实际覆盖统计。
